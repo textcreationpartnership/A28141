@@ -1,0 +1,1269 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Biddle dispossest, or, His Scripture perverting catechism reformed by Scripture wherein those points of the Christian religion blasphemed by Biddle by wresting the Scripture to answer his heresies question-wise propounded are vindicated in several anti-questions resolving themselves by pertinent answers taken word for word out of the Scriptures without either consequents or comments ... / collected for their sakes who desire to be true Christians ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 139 KB of XML-encoded text transcribed from 79 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28141</idno>
+            <idno type="STC">Wing B2884</idno>
+            <idno type="STC">ESTC R24805</idno>
+            <idno type="EEBO-CITATION">08513383</idno>
+            <idno type="OCLC">ocm 08513383</idno>
+            <idno type="VID">41426</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28141)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41426)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1247:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Biddle dispossest, or, His Scripture perverting catechism reformed by Scripture wherein those points of the Christian religion blasphemed by Biddle by wresting the Scripture to answer his heresies question-wise propounded are vindicated in several anti-questions resolving themselves by pertinent answers taken word for word out of the Scriptures without either consequents or comments ... / collected for their sakes who desire to be true Christians ...</title>
+               </titleStmt>
+               <extent>[32], 123 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Tyton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Biddle, John, 1615-1662. --  A twofold catechism.</term>
+               <term>Catechisms.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41426:1"/>
+            <pb facs="tcp:41426:1" rendition="simple:additions"/>
+            <p>Biddle Diſpoſſeſt, OR His Scripture perverting Ca<g ref="char:EOLhyphen"/>techiſm reformed by Scripture. Wherein Thoſe points of the Chriſtian Religion blaſphemed by <hi>Biddle,</hi> by wreſting the Scripture, to anſwer his hereſies Queſtion-wiſe propounded, are vin<g ref="char:EOLhyphen"/>dicated in ſeveral Anti-queſtions, reſolving themſelves by pertinent anſwers, taken word for word out of the Scripture, without either conſequents or comments; And (which <hi>Bid<g ref="char:EOLhyphen"/>dle</hi> could not ſay) no more is concluded in the Queſtion, then what is really and plain<g ref="char:EOLhyphen"/>ly contained in the Anſwer. Collected for their ſakes who deſire to be true Chriſtians, and not of this ſect of <hi>Bid<g ref="char:EOLhyphen"/>dle,</hi> inaſmuch as that Sect (not more or leſs but) hath altogether departed from the ſim<g ref="char:EOLhyphen"/>plicity and truth of the Scripture.</p>
+            <q>
+               <hi>Quid dignum tanto tulit hic promiſsor?</hi>
+            </q>
+            <q>
+               <bibl>
+                  <hi>2 Pet. 3.17.</hi>
+               </bibl> Beware leſt ye being led away with the Error of the wicked, fall from your own ſtedfaſtneſs.</q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Francis Tyton,</hi> at the three Daggers in <hi>Fleet ſtreet,</hi> neer the Temple-Gate, 1654.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:41426:2"/>
+            <pb facs="tcp:41426:2"/>
+            <head>BIDDLES Mock-Preface.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Have wondred that there was no Catechiſm yet ex<g ref="char:EOLhyphen"/>tant (that ever I could ſee or hear of) in which one might find the whole ſyſtem of hereſie, as the ſame is exactly contrary to the holy Scripture, as in this of <hi>Biddles,</hi> which is generally ſo ſtuffed, which abu<g ref="char:EOLhyphen"/>ſes, wreſtings, and forcing the Scripture to anſwer his hereti<g ref="char:EOLhyphen"/>cal, ſpurious, and lying Que<g ref="char:EOLhyphen"/>ſtions,
+<pb facs="tcp:41426:3"/>that the leaſt part thereof is at all conſonant to, or deri<g ref="char:EOLhyphen"/>ved from the Word of God; For thus it is, the Councels, <hi>Convocations,</hi> and Aſſem<g ref="char:EOLhyphen"/>blies of Divines, having been attending to leſſer things, not ſufficiently watching, this en<g ref="char:EOLhyphen"/>vious one, now whileſt they ſleep, endeavours to juſtle the ſacred Scriptures out of their place in the Church; framing Articles, and Intruding them on our faith, according to his own fancy and Intereſt, which is to gain Diſciples after him; as who is there that hath not heard of <hi>Biddles</hi> Diſciples? And the Civil Magiſtrate, notwithſtan<g ref="char:EOLhyphen"/>ding his Authority, conniving at the ſame, we have at laſt a Catechiſm fitted to thoſe Arti<g ref="char:EOLhyphen"/>cles,
+<pb facs="tcp:41426:3"/>that Intereſt and deſign, wherein the Scriptures are ſome of purpoſe omitted, others wreſt<g ref="char:EOLhyphen"/>ed or brought in only for a ſhew, not one quotation amongſt all the things controverted, being a whit to the purpoſe, as will ſoon appear to any man of Judge<g ref="char:EOLhyphen"/>ment, who taking into his hands the ſaid Catechiſm, ſhall examine the text, alledged with other Scriptures, and the ends they are alledged for; for if he do this diligently and imparti<g ref="char:EOLhyphen"/>ally, he will find the Scripture and this Catechiſm to be at ſo wide a diſtance one from another, that he will begin to queſtion whither, and proceed to believe that <hi>Biddle</hi> did not himſelf be<g ref="char:EOLhyphen"/>lieve what himſelf wrote; or if he did ſo, will poſitively con<g ref="char:EOLhyphen"/>clude,
+<pb facs="tcp:41426:4"/>that ſpiritual and Scrip<g ref="char:EOLhyphen"/>tural underſtanding he hath none (notwithſtanding all his pre<g ref="char:EOLhyphen"/>tence to rational) and that he did believe (proudly ſuppoſing all men blind as himſelf) that his Readers had no more: In how miſerable a condition then (as to ſpiritual things) muſt the Diſciples of <hi>Biddle</hi> needs be; when thus trained up, not (as the Apoſtle adviſeth) <hi>in the nurture and admonition of the Lord,</hi> but in the blind and crooked paths of ungodly men, deceived, or deceving, or both: and in the doctrine of Devils, not having onely no aſ<g ref="char:EOLhyphen"/>ſurance of the reality, but the cleareſt Scripture-conviction of the non entity of their faith!
+<pb facs="tcp:41426:4"/>Into which ſad condition, many notwithſtanding are fallen into, being ſo unhappy as not to know, or having known, to forſake the way of Truth, and quite aban<g ref="char:EOLhyphen"/>don all piety and honeſty, ha<g ref="char:EOLhyphen"/>ving departed from the Truth, the onely firm ground whereon to build the ſame; to prevent which miſchief, for time to come, by reducing ſuch to their priſline faith (I mean ſuch of them as own the Divine autho<g ref="char:EOLhyphen"/>rity of the Scripture) and withal to ſatisfie the juſt and pious de<g ref="char:EOLhyphen"/>ſire of ſome, and of my ſelf, who delight to ſee the Scripture vin<g ref="char:EOLhyphen"/>dicate its ſelf, and maintain the Truth of our religion, to the end that they and all good men (eſpecially ſuch to whoſe hands this blaſphemous piece hath
+<pb facs="tcp:41426:5"/>come) may conſume themſelves, their children and families, in that truth wherein they are al<g ref="char:EOLhyphen"/>ready built up, and are yet buil<g ref="char:EOLhyphen"/>ding up one another; I have therefore (not by the underſtan<g ref="char:EOLhyphen"/>ding I have gotten, but that God hath given me) not com<g ref="char:EOLhyphen"/>piled but collected certain Scrip<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ures, which may ſerve touching ſeveral wronged Truths of God, for a Scripture Catechiſm, wherein I have not, nor cannot, but the Spirit of God may bring the Reader to a ſure and certain knowledge of the truth of our profeſsion, and the Error of <hi>Biddles,</hi> touching great things, both touching be<g ref="char:EOLhyphen"/>lief and practice, whilſt I my<g ref="char:EOLunhyphen"/>ſelf aſſert nothing; much leſs force the Scripture to anſwer
+<pb facs="tcp:41426:5"/>my lyes (as <hi>Biddle</hi> hath done before me) but onely introduce the Scripture, uttering its own aſſertions, which all Chriſtains confeſs to be of undoubted Truth. Take heed therefore, whoſoever thou art, of <hi>Biddles</hi> Sect or not, that lighteſt on this book, and there readeſt things quite contrary to the lyes propa<g ref="char:EOLhyphen"/>gated by <hi>Biddle,</hi> and currantly received amongſt his deluded, &amp; (without grace loſt followers; for I maintain, not onely the things here diſplayed but the many Scriptures alledged both in the Letter, and ſenſe of them, not onely to have ſuch a tendency, but a direct and flat oppoſition to thoſe his abomi<g ref="char:EOLhyphen"/>nations; I ſay take heed whoe<g ref="char:EOLhyphen"/>ver thou art, that thou art not
+<pb facs="tcp:41426:6"/>once or again entangled or en<g ref="char:EOLhyphen"/>ſnared with theſe his Helliſh dia<g ref="char:EOLhyphen"/>bolical inſinuations; for if thou art fair with him, thou canſt not be ſo, without falling foul upon the whole bulk of holy Scripture it ſelf: inaſmuch as all the Queſtions and anſwers thorough <hi>Biddles</hi> Catechiſm, are forced either to ſpeak ano<g ref="char:EOLhyphen"/>ther Dialect then themſelves know, or at leaſt then the cur<g ref="char:EOLhyphen"/>rent of other Scriptures know; whereas the Scripture wars not againſt its ſelf, but is in ſenſe reconcileable one place to ano<g ref="char:EOLhyphen"/>other, though in words perhaps may have another tendency: for how can a Kindom divided againſt its ſelf ſtand? And for the Anſwers in this Anti-Cate<g ref="char:EOLhyphen"/>chiſm now before thee, they are
+<pb facs="tcp:41426:6"/>faithfully tranſcribed out of the holy book, rightly appli<g ref="char:EOLhyphen"/>ed to Queſtion, and made fa<g ref="char:EOLhyphen"/>ther no more in the Queſtion then is really contained in the proof, if thou ſhalt make a dil<g ref="char:EOLhyphen"/>ligent inſpection into the ſeve<g ref="char:EOLhyphen"/>ral texts with all their Circum<g ref="char:EOLhyphen"/>ſtances: which (beſides his pre<g ref="char:EOLhyphen"/>tentions) <hi>Biddle</hi> could not ſay. To evince it that he could not ſay ſo, Take onely one Inſtance for many in his Catechiſm: In his <hi>5.</hi> Chap. his firſt queſtion is, <hi>How many holy ſpirits of Chriſtians are there?</hi> He anſwers it by <hi>Eph. 4 4.</hi> One ſpirit. Put the Queſtion and anſwer together, they make one entire propoſition (whither true or falſe judge Reader.) There is but one holy Spirit of Chriſti<g ref="char:EOLhyphen"/>ans:
+<pb facs="tcp:41426:7"/>This he does to take off the power of the word, which calls the holy Ghoſt the Spirit God; But neither here nor elſe<g ref="char:EOLhyphen"/>where the Spirit of Chriſtians: which yet as an anſwer to this Queſtion this Scripture is made to ſay <hi>ex ungue Leonem:</hi> by this may you judge of many ſuch; and yet Mr. <hi>Biddle</hi> gives you expreſs Scripture without conſe<g ref="char:EOLhyphen"/>quent or comments (to ſave his credit we ſay ſo too, without true ones.) And let not <hi>Biddle</hi> ſay, or any for him, we need a myſti<g ref="char:EOLhyphen"/>cal or figurative interpretation (though many texts of Scripture are of that nature) to make the doctrines of Truth in our hand, and the texts of Scripture al<g ref="char:EOLhyphen"/>ledged to maintain their ſence; for we do not as <hi>Biddle</hi> in this
+<pb facs="tcp:41426:7"/>Inſtance, draw the Scripture falſly to our doctrine, but our do<g ref="char:EOLhyphen"/>ctrine truly from the Scripture: nor do we once take this liberty to impoſe our myſtical and figu<g ref="char:EOLhyphen"/>rative interpretations on the Scripture, without expreſs war<g ref="char:EOLhyphen"/>rant of the Scripture it ſelf; and with that, they are no more our interpretations, but the Scrip<g ref="char:EOLhyphen"/>tures: neither have we the leſs ſettled belief, nor are we the more liable to be turned aſide by any one can Invent a new my<g ref="char:EOLhyphen"/>ſtical meaning of the Scripture, there being as ſure a rule to judge of ſuch meanings as there is of the litteral ones, to wit, the ſpirit of Revelation in the knowledge of him; I ſay Reve<g ref="char:EOLhyphen"/>lation converſant in, not with<g ref="char:EOLhyphen"/>out and beſides the Scriptures,
+<pb facs="tcp:41426:8"/>and that form of wholſome words, once to the Saints: nor is there any error how abſurd or impious ſoever, can on ſuch terms be accorded with the Scripture, nor the abominable Idolatries of the Papiſts, nor the ſuperſtitious fopperies of the Turks, nor the licentious opi<g ref="char:EOLhyphen"/>nions and practice of the Ran<g ref="char:EOLhyphen"/>ters, nor all theſe abominable and damnable hereſies, the ſmoak belched out by Satan in ſeveral ages, from the bot<g ref="char:EOLhyphen"/>tomleſs pit, and now all Epito<g ref="char:EOLhyphen"/>miſed in the Perſon and Cate<g ref="char:EOLhyphen"/>chiſm of <hi>Biddle,</hi> may upon ſuch terms be palliated, much leſs defended by the Word of God. Certainly we do not of our own heads figuratively interpret the Scripture, when the Letter
+<pb facs="tcp:41426:8"/>ſeemeth repugnant to our ſpiri<g ref="char:EOLhyphen"/>tual ſenſe, to the ſcope of the re<g ref="char:EOLhyphen"/>ſpective Text, and to many plain Texts to the contrary; (for in ſuch caſes) <hi>Biddle</hi> himſelf confeſſeth we muſt of neceſsity admit figures in the ſacred vo<g ref="char:EOLhyphen"/>lume, as well as we do in pro<g ref="char:EOLhyphen"/>fane ones, that the Scripture claſh not with it ſelf, or with our ſpiritual ſenſe, which indeed as it hath the word for its founda<g ref="char:EOLhyphen"/>tion, (and only ſo is of infalli<g ref="char:EOLhyphen"/>ble certainty I ſay, if then we do admit a figure or ſpiritual meaning, in the plain word of God; neither do we make, as ſome blaſpemouſly, and <hi>Biddle</hi> wickedly would make the Scrip<g ref="char:EOLhyphen"/>ture a noſe of wax: for Inſtance, its delivered in the Scripture that the heaven of heavens
+<pb facs="tcp:41426:9"/>cant contain God, that there is no flying from his preſence, that he is preſent in heaven, and in hell, and in the uttermoſt parts of the Sea: that the Heaven is his Throne, and the Earth his Foot ſtool, and alt theſe things hath his hand made, that he is a God at hand, and a God afar off, that no man can hide himſelf in ſecret places from God, and that he fills the heaven and the Earth: neither is any thing ſaid in the Scripture to the contrary, (but that ſeveral places ſay, he is in heaven, none ſaying he is not elſewhere) I ſay now in this or ſuch other caſes, why ſhould I thus ſtick to the Letter of the Word, and boldly affirm, with <hi>Biddle</hi> (having his underſtan<g ref="char:EOLhyphen"/>ding darkened with vain Phi<g ref="char:EOLhyphen"/>loſophy,
+<pb facs="tcp:41426:9"/>of which we are bidden to beware that God is in a cer<g ref="char:EOLhyphen"/>tain place? would not this be to uſe the Scripture as a noſe of wax, and when of it ſelf it looketh one way, to turn it ano<g ref="char:EOLhyphen"/>ther at our pleaſure? the like may be ſaid of the ſimilitude or ſhape of God: his Paſsions and affections, the Redemption of all men, and the falling from the faith, and ſuch like, whatever is controverted in the enſuing Ca<g ref="char:EOLhyphen"/>techiſm: And doth not God ſo ſpeak to our capacity in his Word, (which is a ſure refuge in many matters, concerning God in Scripture (as that he doth not render us uncapable of finding out his meaning, when he ſpeaks one thing, and ex<g ref="char:EOLhyphen"/>plains
+<pb facs="tcp:41426:10"/>himſelf by another? yea is not that way of his a di<g ref="char:EOLhyphen"/>rect courſe, not to make us ſub<g ref="char:EOLhyphen"/>ſtitute an Idol in his place, but to prohibit our ſo doing when he tells in one place, our God is in the heavens, and explains himſelf in another, yea ſundry other, that he is alſo in the Earth, in Hell, and in the fur<g ref="char:EOLhyphen"/>theſtmoſt parts of the Sea: for thus doth he in plain terms ex<g ref="char:EOLhyphen"/>preſs himſelf, that we may not conceive amiſs of him: Thus we ſee, that when ſleep which plainly argueth weakneſs and imperfection, is aſcribed to God, <hi>Pſa. 44.23.</hi> the contrary is ſaid of him; <hi>Pſa 121.</hi> Thus does God in theſe forementioned things; he tells us he is in hea<g ref="char:EOLhyphen"/>ven, but that he is in the Earth
+<pb facs="tcp:41426:10"/>and the Sea alſo: which is the manner of God in Scripture to explain himſelf in one place, what he means by another, which hath ſo much weight in it that it cannot be avoided; and he that ſhall deny it to any heretical end, does but take up one erroneous tenet, to maintain another; But its no wonder indeed this fellow doth ſo, who entertains himſelf, and would have us to entertain ſuch conceipts of God and Chriſt, as are repugnant to the current of the Scripture, and far below the Divine Majeſty, as he hath pleaſed to diſcover himſelf in the plain but certain Letter of ſacred writ, which he doth in deſign to beguil the rude apprehenſions of the vulgar, and inſtead of making them meer
+<pb facs="tcp:41426:11"/>Chriſtians to make them worſe then Heathens; the root whereof is pride deſiring to be accounted a learned man, and able to ſpeak more truly of God, and the things of God, then himſelf hath ſpoken in his word. This indeed hath brought that more then Babyloniſh confuſion into the Church, whilſt men, ſuch men, (who being of their Father the Devil, his works they will do) have framed thoſe horrid do<g ref="char:EOLhyphen"/>ctrines under colour of Religi<g ref="char:EOLhyphen"/>on and Truth, but in Truth to put a baffle on the ſimplicity of the Scripture, and uſher in hereſies, that ſo they may with the more advantage, carry on their deſigns, whither of ap<g ref="char:EOLhyphen"/>plauſe or profit, by their ſedu<g ref="char:EOLhyphen"/>ced followers, which could not
+<pb facs="tcp:41426:11"/>be effected but by the ignorance of ſuch people, and by wrapping up ſuch dangerous concluſions in the guilded coverts of wreſted &amp; miſ<g ref="char:EOLhyphen"/>applied Scriptures, ſuch things probably as our Author (for ſo he would, but ſhall not be called) doth not, and the firſt Inventors thereof; for he hath taken them all from the inventions of others indivers ages before him, who did not themſelves believe, even then when they did (whither in deſign or in malice or both, I ſay not) firſt of all broach them; wherefore there is no poſsibility to keep the Chriſtian Religion in its primitive purity, (a thing worthily boaſted of in reformed Churches, as having been ſin<g ref="char:EOLhyphen"/>cerely indeavoured, and in ſome good meaſure effected, by the good hand of God upon the la<g ref="char:EOLhyphen"/>bour
+<pb facs="tcp:41426:12"/>(among others) his Ser<g ref="char:EOLhyphen"/>vants <hi>Luther</hi> and <hi>Calvin</hi>) but by detecting and caſhiering thoſe many falſe notions, and deviſed forms of lying, fathered on religion, and wholly keeping our ſelves to the plainneſs and Truth of the Scripture: for I have obſerved and find my obſervation to be true and cer<g ref="char:EOLhyphen"/>tain, that when men to expreſs matters of religion, wreſt the words and phraſes in Scripture contrary to the ſenſe thereof, as explained by the holy Ghoſt, (the Author of the whole Divine writ) in other Scriptures they ſlyly under them couch falſe doctrines, and obtrude them on us: for without queſtion the doctrines of the Scripture can be ſo aptly explained by no
+<pb facs="tcp:41426:12"/>Spirit, (no Scripture being of private interpretation as by the ſpirit of the Scripture it ſelf; ſo that its not always ſafe to ſtick to the Letter of every Scripture, but onely as explained by other Scriptures; nor is it alwayes un<g ref="char:EOLhyphen"/>ſafe to expreſs matters of religi<g ref="char:EOLhyphen"/>on in words and phraſes un<g ref="char:EOLhyphen"/>found in Scripture, as to the Letter of them, provided they be ſufficiently warranted and al<g ref="char:EOLhyphen"/>lowed as to the ſenſe of them. This Liberty therefore has the Church unblameably taken to ſpeak of the things God in the exact ſenſe of Scripture in their own words: And he that blaſ<g ref="char:EOLhyphen"/>phemes any ſuch ſentence, which in ſenſe is the very language of Scripture, though the very words are not found in Scrip<g ref="char:EOLhyphen"/>ture
+<pb facs="tcp:41426:13"/>blaſphemes the Scripture its ſelf, and ſo doth he who (not ignorantly but maliciouſly) oppoſes the expreſsions of Gods being infinite, and incomprehen<g ref="char:EOLhyphen"/>ſible, of his being a ſimple act ſubſiſting in <hi>3</hi> perſons, a Divine Circumceſsion, an eternal gene<g ref="char:EOLhyphen"/>ration, eternal proceſsion, in<g ref="char:EOLhyphen"/>carnation, hypoſtatical union, communication of properties, original ſin, Chriſts taking our nature upon him, of Chriſt making ſatisfaction to God for our ſins, both paſt, and preſent, and to come, of Chriſts fulfil<g ref="char:EOLhyphen"/>ling the Law for us, being pu<g ref="char:EOLhyphen"/>niſhed by God for us, Chriſts merits, or his meritorious obedi<g ref="char:EOLhyphen"/>ence, both active and paſsive, of Chriſts purchaſing the King<g ref="char:EOLhyphen"/>dome of heaven for us, of Chriſts
+<pb facs="tcp:41426:13"/>enduring the wrath of God, of Chriſts riſing from the dead by his own power, of apprehending and applying Chriſts righteouſ<g ref="char:EOLhyphen"/>neſs to our ſelves by faith; of Chriſts being our ſurety, paying our debts, of our ſins imputed to Chriſt, of his righteouſneſs imputed to us, of Chriſts dying to appeaſe the wrath of God, and reconcile him to us, of in<g ref="char:EOLhyphen"/>fuſed grace, of free grace, of the world, of the elect, of Irreſi<g ref="char:EOLhyphen"/>ſtible workings of the Spirit in bringing men to believe, of carnal reaſon, of ſpiritual de<g ref="char:EOLhyphen"/>ſertion, of ſpiritual incomes, the out-goings of God, of ſub<g ref="char:EOLhyphen"/>mitting to, or taking up the or<g ref="char:EOLhyphen"/>dinances, &amp;c. ſome of which are in the ſame terms expreſſed in Scripture, all of them ſo own<g ref="char:EOLhyphen"/>ed
+<pb facs="tcp:41426:14"/>by the Scripture, as that the things are expreſly and fully contained in them, which all men know that are any thing acquainted in that ſacred book; but for the terms, the mother of God, Tranſubſtantiation, Con<g ref="char:EOLhyphen"/>ſubſtantation, and the ubiquity of Chriſts body, we will add them to <hi>Biddles</hi> holy ſpirit of Chriſtians, and confeſs them neither to be owned by Scrip<g ref="char:EOLhyphen"/>ture, name, nor thing: There<g ref="char:EOLhyphen"/>fore excellent was <hi>Pauls</hi> advice to <hi>Timothy,</hi> to hold faſt the form of ſound words; which if we once let go, we ſhall be in danger of corruption, by new coined words of ſome, and the new coined doctrines of others, which is many mens ſad caſe, as woful experience teacheth us:
+<pb facs="tcp:41426:14"/>for wicked and ungodly men, in ſucceeding ages, from the Apo<g ref="char:EOLhyphen"/>ſtles, have coined not onely words, but doctrines to: Hence it is, that <hi>Arrius</hi> began wickedly to blaſpheme &amp; oppoſe the Divinity of the ſecond perſon, who is co<g ref="char:EOLhyphen"/>eſſential with the father, for he is God bleſſed for ever, Amen: this opened a gap for other hereticks after him, (as at preſent <hi>Bid<g ref="char:EOLhyphen"/>dle</hi>) like ſo many underſhrubs taking life from the droppings of his hereſie, under pretence of re<g ref="char:EOLhyphen"/>turning to Truth, to propagate that accurſed hereſie: The like of others, which though it could not vitiate the chaſtity and ſimplicity of our faith delivered in the Scriptures, every point thereof yet remaining ſound and entire, yet did there, or yet doth
+<pb facs="tcp:41426:15"/>remain not any one point there<g ref="char:EOLhyphen"/>of uncontradicted and oppoſed; And thoſe hereſies of whatſo<g ref="char:EOLhyphen"/>ever kind, thus propagated from hand to hand, are ſo far from being like <hi>Theſeus</hi> his old ſhip new mended, as that twas hard to ſay, whither twas the old ſhip or new; as that they are rather like the bird which was <hi>alterius or<g ref="char:EOLhyphen"/>nata coloribus,</hi> ſo that though they may perchance vary their words, and new dreſs their ar<g ref="char:EOLhyphen"/>guments, yet are they the ſame, and but the ſame, which were at firſt propounded, by this or that Maſter Heretick, and as often anſwered, ſo that this Maſter-Builder himſelf does here <hi>Jurare in verba Magiſtri,</hi> onely with this difference:
+<pb facs="tcp:41426:15"/>this o that Heretick, at this or that time, hath tacked this or that error to our Religion: but this would ſubvert the whole Religion, which Chriſt and his Apoſtles taught, and put this body of hereſie in the room thereof; in this outſtripping them, that what they do ſcat<g ref="char:EOLhyphen"/>teringly, againſt this or that part of Religion, he Rallies and applies to the ruin of Reli<g ref="char:EOLhyphen"/>gion it ſelf; but thanks be to God through our Lord Ieſus Chriſt, who amidſt the preſent Inundation of hereſies, hath preſerved his written word in<g ref="char:EOLhyphen"/>tire: (for had men corrupted it, they would have made it ſpeak more favorably in behalf of their lyes and hereſies then it doth) wh ch word if we with
+<pb facs="tcp:41426:16"/>prayer &amp; humility pry into, reſol<g ref="char:EOLhyphen"/>ving ſincerely to imbrace the do<g ref="char:EOLhyphen"/>ctrine therein plainly deliver<g ref="char:EOLhyphen"/>ed, though all the world ſhould ſet themſelves againſt the Truth (our minds being en<g ref="char:EOLhyphen"/>lightned) we ſhall eaſily diſcern it, and be kept therein through the power of God unto ſalva<g ref="char:EOLhyphen"/>tion.</p>
+            <p>And thus much we ſhall ſee by experience, that a weak in<g ref="char:EOLhyphen"/>ſtrument of none, much leſs of no great abilities, hath ſuffici<g ref="char:EOLhyphen"/>ently detected his wicked errors in the Body of hereſie, by natu<g ref="char:EOLhyphen"/>rall and pertinent Queſtions and anſwers, exactly tranſcri<g ref="char:EOLhyphen"/>bed out of the Word of God; it having been already of much vantage to me and may (I que<g ref="char:EOLhyphen"/>ſtion not) through the ſpirit be
+<pb facs="tcp:41426:16"/>ſo to all whoſoever ſhall ſearch the Scripture alledged, and make inquiry into the Ora<g ref="char:EOLhyphen"/>cles of God: Theſe Oracles, which all men that have (by the Spirit of Truth, which can onely lead into all Truth) ſtudied the ſame, be enamored with, as breathing out the wiſ<g ref="char:EOLhyphen"/>dom and Truth of God, and as being the exacteſt rule of a holy life, (which the true Religion acknowledges the way unto hap<g ref="char:EOLhyphen"/>pineſs) whoſe Divinity notwith<g ref="char:EOLhyphen"/>ſtanding hath been, is, and will be Queſtioned by many, to the worlds end, who are unwilling to deny their wordly luſts, and obey the pure and perfect pre<g ref="char:EOLhyphen"/>cepts thereof; which truly <hi>Biddle</hi> himſelf would not ſtick to do (might it advantage him
+<pb facs="tcp:41426:17"/>in his deſign againſt Truth) as well as the Divinity of that Spirit which made them Di<g ref="char:EOLhyphen"/>vine: But he judges it the moſt Politick way, to ſtand on the foundation, to batter down the houſe, which is a ſtra<g ref="char:EOLhyphen"/>tagem ſo perfectly devilliſh, as that in this life, and in that to come, twill (without repen<g ref="char:EOLhyphen"/>tance) make him equal to the Prince of evil Angels.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb n="1" facs="tcp:41426:17"/>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">Q</seg>
+                     <g ref="char:V">Ʋ</g>eſt.</hi> The Word of God is quick and powerful, and more ſharp then a two-edged ſword: but is to ſo of it ſelf, or with the ſpirits operation?</p>
+               <p>
+                  <hi>Aſw.</hi> 2 Cor. 3.6. Who alſo hath made us able Miniſters of the New Teſtament, <hi>not of the Letter, but of the Spirit;</hi> for the Letter killeth, but <hi>the Spirit giveth life.</hi>
+               </p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II.</head>
+               <p>
+                  <hi>Q<g ref="char:V">Ʋ</g>.</hi> There is indeed but one God: but hath not that God declared himſelf to be as one in Eſſence, ſo three in ſubſiſtence,
+<pb facs="tcp:41426:18"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="1" facs="tcp:41426:18"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="2" facs="tcp:41426:19"/>the Father, the Word and the Spirit?</p>
+               <p>
+                  <hi>Anſw. Iſa.</hi> 61.1. The <hi>Spirit</hi> of the <hi>Lord God</hi> is upon me, there<g ref="char:EOLhyphen"/>fore hath the Lord anointed <hi>me. Gen.</hi> 1.26. And God ſaid <hi>let us</hi> make man <hi>in our Image,</hi> chap. 3.22. And the Lord God ſaid, behold the man is become as <hi>one of us.</hi> chap. 11.6.7. and the Lord God ſaid, <hi>let us</hi> go down. 1 <hi>Ioh.</hi> 1.1.7. for there are <hi>three</hi> which bear re<g ref="char:EOLhyphen"/>cord <hi>in heaven, the Father, the Word, and the Spirit, and theſe three are one.</hi> Mat. 28.16. Go therefore and teach all Nations, baptizing them in the name <hi>of the Father, and of the Son, and of the holy Ghoſt.</hi> Ioh. 15.26. but when the <hi>Comforter</hi> ſhall come <hi>whom I will ſend</hi> unto you <hi>from the Father, even the Spirit of Truth, which proceedeth of the father,</hi> he ſhall te<g ref="char:EOLhyphen"/>ſtifie of me.</p>
+               <p>
+                  <hi>Ioh.</hi> 14.26. But the Comforter which is <hi>the holy Ghoſt,</hi> whom <hi>the
+<pb n="3" facs="tcp:41426:19"/>Father</hi> will ſend <hi>in my name,</hi> he ſhall teach you all things.</p>
+               <p>2 Cor. 13.13. The grace of <hi>our Lord Jeſus Chriſt,</hi> and the love of <hi>God,</hi> and the communion of the <hi>holy Ghoſt</hi> be with you all, <hi>Amen.</hi>
+               </p>
+               <p>
+                  <hi>Titus</hi> 3.5, 6. But when the bountifulneſs and love of <hi>God</hi> our Saviour toward man appeared, he ſaved us by the waſhing of the new birth and the renewing of <hi>the holy Ghoſt,</hi> which he ſhed on us abundantly, through <hi>Jeſus Chriſt our Saviour.</hi>
+               </p>
+               <p>
+                  <hi>Gal.</hi> 4.6. And becauſe ye are ſons, <hi>God</hi> hath ſent forth <hi>the Spirit</hi> of <hi>his Son</hi> into your hearts.</p>
+               <p>
+                  <hi>Queſt.</hi> The Father indeed is God, and alſo the Son is God, and the Spirit is God: of which in its proper place; only here repeat one Scripture already named.</p>
+               <p>Anſw. 1 <hi>John</hi> 5.7. For there are <hi>three</hi> which bear record <hi>in hea<g ref="char:EOLhyphen"/>ven, the father, the Word, and the Spirit, and thoſe three are one.</hi>
+               </p>
+               <pb n="4" facs="tcp:41426:20"/>
+               <p>
+                  <hi>Queſt.</hi> When God is ſaid to be in a certain place in Scripture, as <hi>Pſal.</hi> 115.3. Our God is in the heavens, and ſuch like places: is he ſo there as to be circumſcribed, comprehended, as included? or ſo there as are the Creatures, there, and not elſewhere then there; how then is God infinite? or is he infinite? what ſaith the Scripture?</p>
+               <p>Anſw. 1 <hi>Kingt</hi> 8.27. 'But will God indeed dwell on the earth? <hi>Behold the heaven, and heaven of heavens cannot contain thee;</hi> how much leſs this houſe that I have builded.</p>
+               <p>Pſal. 139.7. <hi>Whither ſhall I go from thy Spirit, or Whither ſhall I flee from thy preſence? If I aſcend up into Heaven, thou art there:</hi> If I <hi>make my bed in hell, behold thou art there:</hi> If I take the wings of the morning, and dwell <hi>in the utter<g ref="char:EOLhyphen"/>moſt parts of the ſea, even there ſhall thy hand lead me, and thy right hand ſhall hold me.</hi> Iſa. 66.1.
+<pb n="5" facs="tcp:41426:20"/>Thus ſaith the Lord, <hi>The heaven is my Throne, and the earth is my footſtool; where is the houſe that ye builded unto me, or where is the place of my reſt? for all thoſe things hath my hand made.</hi>
+               </p>
+               <p>
+                  <hi>Iſa.</hi> 40.12. Who hath meaſu<g ref="char:EOLhyphen"/>red the waters in the hollow of his hand? and meted out heaven with a ſpan? and comprehended the duſt of the earth in a meaſure? and weighed the mountains in Scales? or the hills in a balance? <hi>Who hath directed the Spirit of the Lord?</hi>
+               </p>
+               <p>Jer. 23, 24. <hi>Am I a God at hand ſaith the Lord, and not a God afar off? can any hide himſelf in ſecret places, that I ſhall not ſee him, ſaith the Lord? do not I fill heaven and earth, ſa th the Lord?</hi>
+               </p>
+               <p>
+                  <hi>Queſt.</hi> When we read of the Image of God, as <hi>Gen.</hi> 1 26, 27. Let us make man in our Image, after our likeneſs, &amp;c. the ſimili<g ref="char:EOLhyphen"/>tude of God; or the perſon of God in Scripture, doth it prove
+<pb n="6" facs="tcp:41426:21"/>that God is corporeal and viſible as man is? what is meant by the Image of God? what ſay other Scriptures?</p>
+               <p>Anſw. <hi>Col.</hi> 3.10. Renewed <hi>in knowledge after the Image of him that created him: Epheſ.</hi> 4.24. And put on the new man which <hi>after God</hi> is renewed in righteouſ<g ref="char:EOLhyphen"/>neſs and true holineſs.</p>
+               <p>Joh. 6.46. <hi>Not that any man hath ſeen the Father.</hi>
+               </p>
+               <p>Joh. 1.18. <hi>No Man hath ſeen God at any time.</hi>
+               </p>
+               <p>1 <hi>John</hi> 4.12. No man hath ſeen God at any time.</p>
+               <p>
+                  <hi>Exod.</hi> 33.20. Moreover he ſaid, <hi>Thou canſt not ſee my face.</hi>
+               </p>
+               <p>1 <hi>Tim.</hi> 6.16 Who only hath immortality, and dwelleth in the light that no man can attain unto, <hi>whom never man ſaw, nor can ſee,</hi> to whom be honour and pow<g ref="char:EOLhyphen"/>er everlaſting, <hi>Amen.</hi>
+               </p>
+               <p>
+                  <hi>Queſt.</hi> When we read in Scri<g ref="char:EOLhyphen"/>pture of affections and paſſions,
+<pb n="7" facs="tcp:41426:21"/>as love, hatred, repentance, anger, &amp;c. attributed to God in Scri<g ref="char:EOLhyphen"/>pture, as the anger of the Lord was kindled, it repented the Lord, &amp;c. may we think thereby that God is ſubject to change as is man, or elſe ſpeaks the Scripture in order to our capacity and ap<g ref="char:EOLhyphen"/>prehenſions? what ſaith the Scri<g ref="char:EOLhyphen"/>pture?</p>
+               <p>Anſw. 1 <hi>Joh.</hi> 1.5. God is light, and <hi>in him there is no darkneſs,</hi> Gen. 28.19 <hi>God is not as man that he ſhould lye,</hi> neither as the Son of man <hi>that he ſhould repent; hath he ſaid, and ſhall he not do it? hath he ſpoken, and ſhall he not accompliſh it? James</hi> 1.17. Every good gi<g ref="char:EOLhyphen"/>ving and every perfect gift is from above, from the Father of lights, <hi>with whom is no variableneſs, nor ſhaddow of turning:</hi> Pſal. 33.11. <hi>The counſel of the Lord ſhall ſtand for ever, and the thoughts of his heart throughout all ages.</hi>
+               </p>
+               <p>Iſaiah 46.10. <hi>My counſel ſhall
+<pb n="8" facs="tcp:41426:22"/>ſtand,</hi> and I will do whatſoever I will; <hi>as I have ſpoken ſo will I bring it to paſs; I have purpoſed, I will do</hi> it.</p>
+               <p>
+                  <hi>Queſt.</hi> Touching expreſſions we meet with in Scripture, of Gods tempting of <hi>Abraham,</hi> and ha<g ref="char:EOLhyphen"/>ving tried him, now he knew that he feared God, <hi>Gen.</hi> 22.1 to the 10. that God proves his people to ſee whither they will walk in his way or no; or repenting him of good and evil, upon his peoples ſins, or return of trying them, to know what was in their heart, and ſuch like places; do they prove any ſuch free actions of ours, or that God knoweth not till they come to paſs: or rather ſpeaks the Scripture after the manner of men? would not ſuch doctrine de<g ref="char:EOLhyphen"/>ſtroy the Omniſciency of God? what ſaith the Scripture to this thing?</p>
+               <p>Anſw. Heb. 4.13. <hi>Neither is there any creature which in not mani<g ref="char:EOLhyphen"/>feſt
+<pb n="9" facs="tcp:41426:22"/>in his ſight; but all thinge are naked and open unto his eyes,</hi> with whom we have to do, Pſal. 139.2, 6, 7, 11, 13, 16. Oh Lord, <hi>thou underſtandeſt my thoughts afar off;</hi> thy knowledge is too won<g ref="char:EOLhyphen"/>derfull for me; It is ſo high that I cannot attain unto it; <hi>If I ſay the darkneſs ſhall hide me even the night ſhall be light round about me;</hi> yea the darkneſs hideth not from thee; but the night ſhineth as the day, <hi>the darkneſs and light are both alike;</hi> My bones are not hid from thee, though I was not made in a ſecret place; <hi>thine eyes did ſee me, when I was without form: for in thy book were all things written</hi> which in continuance were faſhioned, <hi>when there was none of them before.</hi>
+               </p>
+               <p>
+                  <hi>Joh.</hi> 21.27. <hi>Peter</hi> ſaid unto him, <hi>Lord, thou knoweſt all things;</hi> and Jeſus ſaid, when thou waſt young, thou girdedſt thy ſelf, and walkedſt wither thou pleaſedſt; but when thou ſhalt be old, another
+<pb n="10" facs="tcp:41426:23"/>ſhall girde thee, and lead thee whither thou wouldſt not; and this he ſpake, ſignifying by what death he ſhould glorifie God.</p>
+               <p>Pſal. 147. Great is our Lord, <hi>his wiſdom is infinite.</hi>
+               </p>
+               <p>Iſa. 40.28. <hi>there is no ſearching of his underſtanding.</hi>
+               </p>
+               <p>
+                  <hi>Acts.</hi> 2.3. The determined coun<g ref="char:EOLhyphen"/>ſel and <hi>fore knowledge of God.</hi>
+               </p>
+               <p>1 Pet. 1.2. <hi>Elect according to the fore knowledge of God the Fa<g ref="char:EOLhyphen"/>ther.</hi>
+               </p>
+               <p>Pſal. 94.9, 10, 11. <hi>He that planted the ear, ſhall not he hear? and the eye, ſhall he not ſee?</hi> he that teacheth men knowledge, ſhall not he know? <hi>the Lord know<g ref="char:EOLhyphen"/>eth the thoughts of a man.</hi>
+               </p>
+               <p>
+                  <hi>Jer.</hi> 17.9, 10. The heart is de<g ref="char:EOLhyphen"/>ceitful and wicked above all things: who can know it? <hi>I the Lord ſearch the heart, and try the reins.</hi>
+               </p>
+               <p>
+                  <hi>Eph.</hi> 1. He hath choſen us in him, ere the foundationn of the
+<pb n="11" facs="tcp:41426:23"/>world, that we ſhould be holy: that in the diſpenſation of the ful<g ref="char:EOLhyphen"/>neſs of time, he might gather to<g ref="char:EOLhyphen"/>gether in one, all things according to his purpoſe; <hi>who ruleth all things after the counſel of his own will.</hi>
+               </p>
+               <p>2. <hi>Tim.</hi> 2.19. The foundation of God ſtands ſure, having this ſeal: <hi>the Lord knows who are his.</hi>
+               </p>
+               <p>James 1.17. <hi>With God is no va<g ref="char:EOLhyphen"/>riableneſs or ſhaddow of change:</hi>
+               </p>
+               <p>
+                  <hi>Prov</hi> 19.21. Many devices are in mans heart, but <hi>the Lords coun<g ref="char:EOLhyphen"/>ſel ſhall ſtand.</hi>
+               </p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III.</head>
+               <p>
+                  <hi>Q<g ref="char:V">Ʋ</g>eſt.</hi> Whereas we read in <hi>Gen.</hi> 3. the curſe denounced by God upon our Parents firſt ſin, to be ſorrow in conception, a curſe on the ground, and mans labour in this life, is that the full extent of the curſe, or in the queſtion of Gods enemies? did not their ſin
+<pb n="12" facs="tcp:41426:24"/>bring on them and us the guilt of hel-f re? deface the Image of God in us, darken our underſtand<g ref="char:EOLhyphen"/>ings, enſlave our wills, deprive us of power to do good, and cauſe mortality? did it, or did it not? what ſaith the Scriptures?</p>
+               <p>Anſw. <hi>Gen.</hi> 2.17. in the day thou eateſt thereof, <hi>thou ſhalt dy<g ref="char:EOLhyphen"/>ing dye: Rom.</hi> 5.12. By one man <hi>ſin entred into the world, and death by ſin, and ſo death went over all men: verſ.</hi> 14. but <hi>death raigned</hi> from <hi>Adam</hi> to <hi>Moſes.</hi>
+               </p>
+               <p>
+                  <hi>Verſe</hi> 15. Through the offence of one, <hi>many be dead.</hi>
+               </p>
+               <p>16. The fault came of one man to <hi>condemnation.</hi>
+               </p>
+               <p>17. By the offence of one, <hi>death raigned.</hi>
+               </p>
+               <p>18. By the offence of one, <hi>the fault came on all men to condem<g ref="char:EOLhyphen"/>nation.</hi>
+               </p>
+               <p>21. <hi>Sin raigned unto death.</hi>
+               </p>
+               <p>Gal. 3.10. <hi>Curſed is every one that continueth not in all things,
+<pb n="13" facs="tcp:41426:24"/>which are written in the book of the Law to do them.</hi>
+               </p>
+               <p>
+                  <hi>Rom.</hi> 3.9. We have proved both Jews and Gentiles to be all under ſin; <hi>verſ.</hi> 12. They are al<g ref="char:EOLhyphen"/>together <hi>become unprofitable,</hi> there is <hi>none that doth good,</hi> no not one. <hi>Iohn</hi> 8.34. Whoſoever committeth ſin, is <hi>the ſervant of ſin.</hi>
+               </p>
+               <p>Rom. 6.17.20. <hi>Servants to ſin.</hi>
+               </p>
+               <p>Rom. 7.14. <hi>Sold under ſin:</hi>
+               </p>
+               <p>15. <hi>What I would, that I do not; but what I hate, that I do.</hi>
+               </p>
+               <p>18. In me (that is in my fleſh) <hi>there dwelleth no good thing:</hi>
+               </p>
+               <p>19. <hi>For the good that I would, I do not: but the evil which I would not, that I do.</hi>
+               </p>
+               <p>23. But I ſee another Law in my members, <hi>bringing me into captivity of the Law of ſin,</hi> which is in my members.</p>
+               <p>24. O wretched man that I am, <hi>who ſhall deliver me from this body of death?</hi>
+               </p>
+               <pb n="14" facs="tcp:41426:25"/>
+               <p>2 <hi>Pet.</hi> 2.19 While they pro<g ref="char:EOLhyphen"/>miſe liberty, themſelves are <hi>the ſer<g ref="char:EOLhyphen"/>vants of corruption;</hi> for of whom a man is overcome, of the ſame is he brought in bondage.</p>
+               <p>Eph. 2.1. <hi>Dead in treſpaſſes and ſins.</hi>
+               </p>
+               <p>
+                  <hi>Iohn</hi> 8.41. You do the deeds of your Father; <hi>ye are of your Fa<g ref="char:EOLhyphen"/>ther the Devil,</hi> and his deeds will ye do.</p>
+               <p>
+                  <hi>James</hi> 1.14. Every man is <hi>temp<g ref="char:EOLhyphen"/>ted of his own luſt, and enticed.</hi>
+               </p>
+               <p>
+                  <hi>Rom.</hi> 8.7. They that are in <hi>the fleſh, cannot pleaſe God.</hi>
+               </p>
+               <p>
+                  <hi>Gal.</hi> 3.22. The Scripture hath concluded <hi>all under ſin;</hi> unleſs ye be <hi>born from above,</hi> you cannot enter into the kingdom of God.</p>
+               <p>
+                  <hi>Titus</hi> 3.5. He <hi>ſaved</hi> us <hi>by the waſhing of regeneration, and the re<g ref="char:EOLhyphen"/>newing of the holy Ghoſt.</hi>
+               </p>
+               <p>
+                  <hi>Pſal.</hi> 54.5. Behold I was <hi>born in iniquity,</hi> and <hi>in ſin</hi> hath my mo<g ref="char:EOLhyphen"/>ther <hi>conceived</hi> me.</p>
+               <p>
+                  <hi>Gen.</hi> 6.5. The Lord faw <hi>all that
+<pb n="15" facs="tcp:41426:25"/>all the imaginations of mans heart are evil</hi> continually.</p>
+               <p>
+                  <hi>Queſt.</hi> What ſaith the Scri<g ref="char:EOLhyphen"/>pture concerning the under<g ref="char:EOLhyphen"/>ſtanding?</p>
+               <p>1 <hi>Cor.</hi> 2.4. For the <hi>natural man</hi> receiveth <hi>not the things of the Spirit of God;</hi> for they are fool<g ref="char:EOLhyphen"/>iſhneſs unto him, <hi>neither can he know them, becauſe they are ſpiritu<g ref="char:EOLhyphen"/>ally diſcerned.</hi>
+               </p>
+               <p>
+                  <hi>Eph.</hi> 4.17, 18. This I ſay there<g ref="char:EOLhyphen"/>fore and teſtifie in the Lord, that ye henceforth walk not as other Gentiles walk, <hi>in the vanity of their mind, having their under<g ref="char:EOLhyphen"/>ſtanding darkned, being alienated from the life of God through the ignorance that is in them; becauſe of the blindneſſs of their hearts.</hi>
+               </p>
+               <p>
+                  <hi>Rom.</hi> 8 5 They that are after the fleſh, do <hi>mind the things of the fleſh:</hi>
+               </p>
+               <p n="7">7. The <hi>carnal mind</hi> is enmity with God.</p>
+               <p>Luke 24.45. Then <hi>opened</hi> he
+<pb n="16" facs="tcp:41426:26"/>their <hi>underſtandings,</hi> that they might <hi>underſtand the Scripture.</hi>
+               </p>
+               <p>Iſaiah 44.18. <hi>They have not known nor underſtood.</hi> God hath ſhut their eyes that <hi>they cannot ſee,</hi> and their hearts that <hi>they cannot underſtand.</hi>
+               </p>
+               <p>19. None conſidereth in his heart, <hi>neither is there knowledge nor underſtanding.</hi>
+               </p>
+               <p>10. <hi>A ſeduced heart hath decei<g ref="char:EOLhyphen"/>ved him.</hi>
+               </p>
+               <p>
+                  <hi>Queſt.</hi> What of the Will?</p>
+               <p>Anſw. <hi>Phil.</hi> 2.18. Its ſaid, <hi>God worketh in us to will</hi> and to do.</p>
+               <p>
+                  <hi>Rom.</hi> 7.23. But I ſee <hi>another Law in my members, bringing me into captivity into the Law of ſin.</hi>
+               </p>
+               <p>
+                  <hi>Rom.</hi> 6.20. Being <hi>ſervants to ſin,</hi> we are <hi>free from Righteouſneſs.</hi>
+               </p>
+               <p>Rom. 8.7, 8. <hi>The carnal mind is enmity with God;</hi> for it <hi>is not ſub<g ref="char:EOLhyphen"/>ject to the Law of God,</hi> neither in<g ref="char:EOLhyphen"/>deed can be; ſo then they that are
+<pb n="17" facs="tcp:41426:26"/>in the fleſh cannot pleaſe God. Eph. 4.19. <hi>Have given them<g ref="char:EOLhyphen"/>ſelves over</hi> to laſciviouſneſs.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV.</head>
+               <p>
+                  <hi>Q<g ref="char:V">Ʋ</g>eſt.</hi> Whereas we find in the Catechiſm, of Gods enemies and ours, an endeavour to prove Chriſt the Lord by way of diſtin<g ref="char:EOLhyphen"/>ction from the one God, as he blaſ<g ref="char:EOLhyphen"/>phemes to that end ſeveral Scri<g ref="char:EOLhyphen"/>ptures quoted, and many Queſti<g ref="char:EOLhyphen"/>ons ſtated; as that Jeſus is the Lord born of his Mother <hi>Mary;</hi> that he dyed to be Lord over quick and dead; that God raiſed him up from the dead; that he was approved of God by miracles which God did by him; that the Son can do nothing of himſelf, but what he ſeeth the Father do; that he abode in his Fathers houſe, becauſe he abode in his Fathers commandments; that he is the Son of God; that the Father is greater then he; that he ſhall de<g ref="char:EOLhyphen"/>liver
+<pb n="18" facs="tcp:41426:27"/>up his kingdom to his father; that at the ſame time <hi>Thomas</hi> cals him, and the Scriptures call him God, himſelf and the Scripture confeſs him to have a god; by theſe doth that wretched Creature prove what he intends; to wit, that the Lord Jeſus Chriſt is ſo our Lord, as not our God, very God with the Father? or doth he prove that which we ſhall never deny him, the humanity of our Mediator, according to the Scri<g ref="char:EOLhyphen"/>ptures; for ſuch an high Prieſt it became us to have; let us hear what teſtimony the Scripture gives to the Godhead of Chriſt; and that he may ſee the wiſdom of that God whom he hath blaſphe<g ref="char:EOLhyphen"/>med, as a token of vengeance to him, bring out one dart for the heart of him and his blaſphe<g ref="char:EOLhyphen"/>my out of his own quiver: The two firſt Scriptures he quotes, in this God defying Chapter, what ſay they and other Scriptures?</p>
+               <pb n="19" facs="tcp:41426:27"/>
+               <p>Anſw. He begins with <hi>Epheſ.</hi> 4.5. and 1 <hi>Cor.</hi> 8.6. One Lord Jeſus Chriſt, <hi>by whom are all things.</hi>
+               </p>
+               <p>Col. 2.9. <hi>In him</hi> (in Chriſt) <hi>dwelleth all the fulneſs of the God<g ref="char:EOLhyphen"/>head</hi> bodily.</p>
+               <p>
+                  <hi>Iſaiah</hi> 9.6. For unto us a child is born, and unto us a Son is given, the Government is upon his ſhoulders, he ſhall call his name wonderful, Counſellour, <hi>the mighty God,</hi> the everlaſting Father, the Prince of peace.</p>
+               <p>
+                  <hi>Jer.</hi> 23.5. Behold the days come, ſaith the Lord, I will raiſe unto <hi>David</hi> a righteous branch, and this is the name whereby they ſhall call him, <hi>the Lord our</hi> righte<g ref="char:EOLhyphen"/>ouſneſs.</p>
+               <p>
+                  <hi>Mat.</hi> 16.16. Then <hi>Peter</hi> an<g ref="char:EOLhyphen"/>ſwered and ſaid, Thou art Chriſt <hi>the Son of the living God.</hi>
+               </p>
+               <p>
+                  <hi>John</hi> 1.1. In the beginning was the word, and the word was with God, <hi>and that word was God.</hi>
+               </p>
+               <p>
+                  <hi>John</hi> 20.28. Then <hi>Thomas</hi> an<g ref="char:EOLhyphen"/>ſwered
+<pb n="20" facs="tcp:41426:28"/>and ſaid, Thou art my Lord <hi>and my God.</hi>
+               </p>
+               <p>
+                  <hi>Acts</hi> 15.28. Take heed there<g ref="char:EOLhyphen"/>fore unto your ſelves and to all the flock whereof the holy Ghoſt hath made you overſeers, to feed <hi>the Church of God which he hath purchaſed with his own blood.</hi>
+               </p>
+               <p>
+                  <hi>Rom.</hi> 9.5. Of whom concerning the fleſh <hi>Chriſt came, who is God over all, bleſſed for ever,</hi> Amen</p>
+               <p>1 <hi>Tim.</hi> 3.16. And without con<g ref="char:EOLhyphen"/>troverſie great is the Myſterie of godlineſs, <hi>God manifeſted in the fleſh.</hi>
+               </p>
+               <p>1 <hi>John</hi> 5.20. But we know the Son of God is come; Chriſt; and we are in him that is true; Chriſt, that is, his ſon Jeſus Chriſt, <hi>this ſame is very God;</hi> and eternal life.</p>
+               <p>
+                  <hi>Ioh.</hi> 3.13. No man aſcendeth up to heaven, but he that deſcend<g ref="char:EOLhyphen"/>ed from heaven, the Son of man which <hi>is in heaven; before</hi> Abra<g ref="char:EOLhyphen"/>ham <hi>was I am:</hi>
+               </p>
+               <pb n="21" facs="tcp:41426:28"/>
+               <p>
+                  <hi>Phil.</hi> 2 6 Who being in the form of God thought it no rob<g ref="char:EOLhyphen"/>berie to be equal with God took on him the form of a ſervant.</p>
+               <p>Mat. 24.44. <hi>The Lord ſaid to my Lord,</hi> ſit thou at my right hand, untill I make thine enemies thy footſtool.</p>
+               <p>
+                  <hi>Joh.</hi> 5.17, 18 My Father work<g ref="char:EOLhyphen"/>eth hitherto and I work therefore the Jews ſought the more to kill him, not only becauſe he had bro<g ref="char:EOLhyphen"/>ken the Sabbath, but ſaid alſo that God was his Father, and <hi>made himſelf equal with God.</hi>
+               </p>
+               <p>
+                  <hi>Joh.</hi> 19.7. The Jews anſwered, we have a Law by which he ought to dye; becauſe he made him<g ref="char:EOLhyphen"/>ſelf the Son of God.</p>
+               <p>
+                  <hi>Rom.</hi> 8.3, 15 <hi>God ſending his own ſon,</hi> not ſparing <hi>his own Son.</hi>
+               </p>
+               <p>
+                  <hi>Iſa.</hi> 7.14 Behold the Virgin ſhall conceive and bear a ſon and ſhe ſhall call his name <hi>Emanuel, God with us.</hi>
+               </p>
+               <p>
+                  <hi>John</hi> 3.16. God ſo loved the
+<pb n="22" facs="tcp:41426:29"/>world, that he gave <hi>his only begot<g ref="char:EOLhyphen"/>ten Son.</hi>
+               </p>
+               <p>
+                  <hi>Ioh.</hi> 1.14. And the word was made fleſh and we ſaw the glory thereof <hi>as the only begotten ſon of the father.</hi>
+               </p>
+               <p>
+                  <hi>Col.</hi> 1.13. Giving thanks unto the Father who hath tranſlated us into the kingdom of his dear Son, who is the Image of the inviſible God, the firſt born of every crea<g ref="char:EOLhyphen"/>ture; <hi>for by him were all things created,</hi> which are in heaven and which are in earth things viſible and inviſible, whether they be Thrones or Dominions, or Prin<g ref="char:EOLhyphen"/>cipalities, or powers <hi>all things are created for him, and by him:</hi> and he is before all things, and in him all things conſiſt.</p>
+               <p>Heb. 1.6. <hi>Let all the Angels of God worſhip him:</hi> verſ. 8. <hi>
+                     <g ref="char:V">Ʋ</g>nto the Son he ſaith, O God, thy throne is for ever and ever: verſ.</hi> 10. And <hi>thou Lord</hi> in the beginning <hi>haſt eſtabliſhed the earth, and the hea<g ref="char:EOLhyphen"/>vens are the works of thy hands.</hi>
+               </p>
+               <pb n="23" facs="tcp:41426:29"/>
+               <p>Heb. 3.3. <hi>Chriſt is worthy of more honour then</hi> Moſes, <hi>inaſmuch as he that built the houſe,</hi> hath more honour then the houſe; <hi>and he that built all things is God.</hi>
+               </p>
+               <p>Heb. 13.8. <hi>Jeſus the ſame yeſterday, to day, and for ever.</hi>
+               </p>
+               <p>
+                  <hi>Iſa.</hi> 45.21, 22, 23. Who hath declared this from the beginning, who hath told it of old? have not I the Lord? <hi>there is none other God beſide me, a juſt God, and a Saviour;</hi> look unto me, and ye ſhall be ſa<g ref="char:EOLhyphen"/>ved all the ends of the earth; <hi>for I am a God, and</hi> there is none other; I have ſworn by my ſelf, every knee ſhall bow unto me and every tongue ſhall ſwear by me; compared to <hi>Rom.</hi> 14.10, 11, 12. We ſhall appear before the <hi>Judg<g ref="char:EOLhyphen"/>ment-ſeat of Chriſt; for it is written, I live ſaith the Lord, and every knee ſhall bow to me, and all tongues ſhall confeſs unto God: ſo then every one ſhall give account of himſelf to God.</hi>
+               </p>
+               <p>
+                  <hi>Iſa.</hi> 44.4.44.6. <hi>Rev.</hi> 1.18.
+<pb n="24" facs="tcp:41426:30"/>compared; who hath wrought and done it? he that calleth the gene<g ref="char:EOLhyphen"/>ration from the beginning: I the Lord am the firſt, and with the laſt, I am the ſame; thus ſaith the Lord the King of Iſrael, and <hi>his Redeemer the Lord of hoſts, I am the firſt and the laſt, and without me there is no God;</hi> And I ſaw ſe<g ref="char:EOLhyphen"/>ven Candleſticks, and in the mideſt one like the <hi>Son of man, and he ſaid, I am the firſt and the laſt.</hi>
+               </p>
+               <p>
+                  <hi>Pro.</hi> 8.22. The Lord hath poſſeſ<g ref="char:EOLhyphen"/>ſed me, <hi>the beginning of his wayes,</hi> I was before his works of old.</p>
+               <p>
+                  <hi>Mar</hi> 3.1. Behold I will ſend my Meſſenger, and he ſhall pre<g ref="char:EOLhyphen"/>pare my way before me; <hi>and the Lord whom ye ſeek</hi> ſhall ſpeedily come to his Temple, even the Meſſenger of the Covenant, whom ye deſire.</p>
+               <p>Pſal. 45.6. <hi>
+                     <g ref="char:V">Ʋ</g>nto the Son</hi> he ſaith, O <hi>God thy Throne is for ever and ever.</hi>
+               </p>
+               <p>
+                  <hi>Eſa.</hi> 40.3 A voice cryeth in the wilderneſs, <hi>prepare ye the way
+<pb n="25" facs="tcp:41426:30"/>of the Lord,</hi> make ſtraight in the deſert a path <hi>for our God.</hi>
+               </p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V.</head>
+               <p>
+                  <hi>Q<g ref="char:V">Ʋ</g>eſt.</hi> We find the Blaſphe<g ref="char:EOLhyphen"/>mer pretending to the Letter of the Scripture, without Conſe<g ref="char:EOLhyphen"/>quent or Comment; how then does <hi>Eph.</hi> 4.4. one Spirit reſolve his Queſtion, how many holy Spi<g ref="char:EOLhyphen"/>rit's of Chriſtians are there?</p>
+               <p>
+                  <hi>Anſ.</hi> No ways.</p>
+               <p>
+                  <hi>Queſt</hi> Whereas then he would ungod God the holy Ghoſt, he makes a phraſe and gives the ho<g ref="char:EOLhyphen"/>ly Ghoſt a new name, The ho<g ref="char:EOLhyphen"/>ly ſpirit of Chriſtians whereas we find no ſuch thing in Scripture, but the holy Spirit of God; what ſhall we then ſay to ſuch a Blaſphemer, who would under pretence of ex<g ref="char:EOLhyphen"/>preſs Scripture, put on us, that for Scripture which we never find there, &amp; that to ſo damned an end?</p>
+               <p>
+                  <hi>Anſw.</hi> The Lord rebuke thee Satan, to the Law and to the Te<g ref="char:EOLhyphen"/>ſtimony.</p>
+               <pb n="26" facs="tcp:41426:31"/>
+               <p>
+                  <hi>Queſt.</hi> The Scriptures indeed are the rule of faith; and no God ought we to worſhip but the God in the Scriptures: What Scripture have we then that ex<g ref="char:EOLhyphen"/>preſly proves the Deity of God the holy Ghoſt?</p>
+               <p>
+                  <hi>Anſw.</hi> The firſt Scripture be<g ref="char:EOLhyphen"/>ing unhappily quoted by our Ad<g ref="char:EOLhyphen"/>verſary, being 1 <hi>Chron.</hi> 10.11. I ſhall therefore firſt give you, The <hi>Spirit ſearcheth all things, Eſay</hi> 6.9. compared to <hi>Act.</hi> 28.25. and I heard the voice of <hi>(Je<g ref="char:EOLhyphen"/>hovah) the Lord;</hi> ſaying, whom ſhall I ſend? And I ſaid, here am I, ſend me: Then he ſaid, go and fay unto this people, they ſhall hear and not underſtand, &amp;c. In <hi>Acts</hi> its quoted, well <hi>ſaid the holy Ghoſt</hi> by <hi>Eſaias</hi> the Prophet, go unto this people and ſay, by hear<g ref="char:EOLhyphen"/>ing ye ſhall hear and not under<g ref="char:EOLhyphen"/>ſtand.</p>
+               <p>
+                  <hi>Heb.</hi> 9.14. <hi>The etternal Spi<g ref="char:EOLhyphen"/>rit.</hi>
+               </p>
+               <pb n="27" facs="tcp:41426:31"/>
+               <p>1 <hi>Cor.</hi> 3.16. Know ye not that ye are the <hi>Temple of God?</hi> and that <hi>the ſpirit of God dwelleth in you?</hi>
+               </p>
+               <p>1 <hi>Cor.</hi> 6.19. Know you not that your body is <hi>the Temple of the holy Ghoſt,</hi> which dwelleth in you, therefore <hi>glorifie God in your body, and in your Spirit, for they are Gods.</hi>
+               </p>
+               <p>2 <hi>Cor.</hi> 6.16. And what Agree<g ref="char:EOLhyphen"/>ment hath <hi>the Temple of God</hi> with Idols? for <hi>ye are the Temple of the living God.</hi>
+               </p>
+               <p>
+                  <hi>Acts</hi> 5.3, 4. Then ſaid <hi>Peter, Ananias,</hi> why hath Satan filled thy heart that thou ſhouldeſt <hi>lye unto the holy Ghoſt? Thou haſt not lyed unto man but unto God. Eſay</hi> 40.9. Say unto the Cities of <hi>Judah, behold your God,</hi> ver. 10. behold <hi>the Lord God will</hi> come with power, <hi>ver.</hi> 13. who hath in<g ref="char:EOLhyphen"/>ſtructed <hi>the Spirit of the Lord,</hi> or was his Councellour? ver. 15. Behold the Nations are as a drop
+<pb n="28" facs="tcp:41426:32"/>of a bucket, and are counted as the duſt of the ballance; Behold he takes away the ſles as a little duſt, <hi>verſ.</hi> 17. All Nations before him are as nothing, leſs then nothing, and vanity, <hi>ver.</hi> 18. <hi>To whom then will ye liken God?</hi>
+               </p>
+               <p>
+                  <hi>Luke</hi> 1.3. And the Angel ſaid, <hi>the holy ghoſt ſhall come upon thee, and the power of the moſt high ſhall</hi> over<g ref="char:EOLhyphen"/>ſhadow thee: <hi>the Spirit of God hath made me.</hi>
+               </p>
+               <p>1 John 1.5, 7. <hi>Three bear Re<g ref="char:EOLhyphen"/>cord</hi> in heaven, and <hi>theſe three are one.</hi>
+               </p>
+               <p>
+                  <hi>Mat.</hi> 28.19. Go teach all Na<g ref="char:EOLhyphen"/>tions, baptizing them <hi>in the name of the Father, and of the Son, and of the holy Ghoſt.</hi>
+               </p>
+               <p>
+                  <hi>Gen.</hi> 1.2. <hi>And the Spirit of God moved upon the waters.</hi>
+               </p>
+               <p>1 <hi>Cor.</hi> 12.1. Now concerning gifts, <hi>verſ.</hi> 4. There are di<g ref="char:EOLhyphen"/>verſities of gifts, <hi>but the ſame Spi<g ref="char:EOLhyphen"/>rit, verſ.</hi> 6. And there are diver<g ref="char:EOLhyphen"/>ſities of operations, <hi>but God is the
+<pb n="29" facs="tcp:41426:32"/>ſame, which worketh all in all: ver.</hi> 8, 9. To one is given <hi>by the Spirit</hi> the word of wiſdom: to another the word of knowledge <hi>by the ſame Spirit:</hi> to another faith <hi>by the ſame Spirit:</hi> to another the gift of healing <hi>by the ſame Spirit: verſ.</hi> 11. All theſe things worketh <hi>the ſelf-ſame Spirit,</hi> diſtributing to every one ſeverally, as he will.</p>
+               <p>Mat 12.28, 31.32. <hi>I caſt out Devils by the Spirit of God:</hi> there<g ref="char:EOLhyphen"/>fore I ſay unto you, every ſin and blaſphemy ſhall be forgiven unto men <hi>but the blaſphemy of the holy Ghoſt ſhall not be forgiven</hi> unto men; <hi>and whoſoever ſpeaketh againſt the holy Ghoſt, it ſhal not be forgiven him,</hi> either in this world, or the world to come.</p>
+               <p>
+                  <hi>Queſt.</hi> Are there not ſome workings of the Spirit in the hearts of men already regenerate, that are extraordinary and mira<g ref="char:EOLhyphen"/>culous? ſuch as in the Acts, which is called receiving the holy Ghoſt;
+<pb n="30" facs="tcp:41426:33"/>the holy Ghoſt falling upon them, &amp;c. in uſe for confirmation of the primitive Church, ſome that are proper to ſuch a ſtate, as the Spi<g ref="char:EOLhyphen"/>rit of Adoption: Becauſe ye are Sons, God hath ſent forth the Spirit of his Son; of Conſolation, ſo the Spirit is called the Comfort<g ref="char:EOLhyphen"/>er, which Chriſt prays ſhall be ſent; of aſſurance and evidence; after ye believed, ye were fealed with the holy Spirit of promiſe; if there be, and that this is the meaning of ſuch Scriptures, do they then prove that Regeneration, Converſion, and the firſt beginnings of grace are in us, without the working of the Spirit, until after, as our Ca<g ref="char:EOLhyphen"/>techiſt would inſinuate? or elſe do they prove only the further and gradual workings of the Spirit? what ſay the Scriptures?</p>
+               <p>Anſw. 2 <hi>Cor.</hi> 3.8. The Goſpel by which we are converted, is cal<g ref="char:EOLhyphen"/>led the <hi>Miniſtration of the Spirit.</hi>
+               </p>
+               <p>
+                  <hi>Joh.</hi> 3.5. Except a man be born
+<pb n="31" facs="tcp:41426:33"/>of water <hi>and the Spirit,</hi> he cannot enter into the kingdom of God. Mat. 3.12. I baptize you with water, unto amendment of life: but he that cometh after me, will <hi>baptize you with the holy Ghoſt,</hi> and with fire.</p>
+               <p>
+                  <hi>Ioel</hi> 2.28. I will <hi>pour out my Spirit</hi> upon all fleſh.</p>
+               <p>2 <hi>Cor.</hi> 6.11, 18. But ye are waſhed, but ye are ſanctified, but ye are purified in the name of our Lord Jeſus, <hi>and by the Spirit of our God.</hi>
+               </p>
+               <p>1 <hi>Ioh.</hi> 3.24. No man can ſay that Jeſus is the Lord, <hi>but by the holy Ghoſt.</hi>
+               </p>
+               <p>
+                  <hi>Rom.</hi> 8.2. The <hi>Law of the Spi<g ref="char:EOLhyphen"/>rit of</hi> life which is in Chriſt Jeſus, hath freed me from the Law of ſin and death.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI.</head>
+               <p>
+                  <hi>Q<g ref="char:V">Ʋ</g>eſt.</hi> That Scripture, <hi>Rom.</hi> 5.10. We ſhall be ſaved
+<pb n="32" facs="tcp:41426:34"/>by his life; is it ſo to be underſtood, as Saints ought not to expect ſal<g ref="char:EOLhyphen"/>vation by the death of Chriſt, as <hi>Biddle</hi> inſinuates? What ſay other Scriptures to this thing?</p>
+               <p>
+                  <hi>Anſw. Rom.</hi> 8.3. God ſending his own Son in the likeneſs of ſin<g ref="char:EOLhyphen"/>ful fleſh, condemned ſin in the fleſh, <hi>Heb.</hi> 2.9, 14, 15. that he by the grace of God <hi>ſhould taſte death for all men,</hi> that <hi>through death</hi> he might deſtroy him that had the power of death, that is, the Devil, and deliver them who through fear of death, were all their life-time ſubject to bondage, 2 <hi>Cor.</hi> 5.14. If <hi>one dyed</hi> for all, then were all dead; and that <hi>he died</hi> for all, that they that live, ſhould not henceforth live unto themſelves, but unto <hi>him which dyed for them,</hi> and roſe again. 1 <hi>Tim.</hi> 2.6 <hi>who gave him<g ref="char:EOLhyphen"/>ſelf a ranſom</hi> for all men.</p>
+               <p>
+                  <hi>Mat.</hi> 20.28. The Son of man came not to be miniſtred unto, but
+<pb n="33" facs="tcp:41426:34"/>to miniſter, <hi>and give his life a ranſom</hi> for many.</p>
+               <p>
+                  <hi>Mat.</hi> 26.28. For this is <hi>my blood</hi> of the New Teſtament, which is <hi>ſhed</hi> for many, <hi>for the remiſſion of ſins, Heb.</hi> 9.28. <hi>Chriſt wat once offered</hi> to bear the ſins of many. <hi>Eſay</hi> 53.11. By knowledge ſhall my righteous ſervant Juſtifie ma<g ref="char:EOLhyphen"/>ny, for <hi>he ſhall bear their iniqui<g ref="char:EOLhyphen"/>ties.</hi>
+               </p>
+               <p>
+                  <hi>Eph.</hi> 5.25 Chriſt loved the Church, and gave himſelf for it; <hi>without blood there is no remiſſion; he dyed for</hi> us, and gave himſelf for us.</p>
+               <p>
+                  <hi>Eph.</hi> 1.7. We have <hi>redemption through his blood.</hi>
+               </p>
+               <p>
+                  <hi>Heb.</hi> 9.12. But <hi>by his own blood entred he once into the holy place, and obtained redemption for us.</hi>
+               </p>
+               <p>
+                  <hi>Heb.</hi> 13.13. Therefore even Jeſus that he might <hi>ſanctifie his own people by his own blood, ſuf<g ref="char:EOLhyphen"/>fered without the gate.</hi>
+               </p>
+               <p>1 <hi>Pet.</hi> 1.18, 19 Knowing ye
+<pb n="34" facs="tcp:41426:35"/>were not <hi>redeemed</hi> with corrup<g ref="char:EOLhyphen"/>tible things, as ſilver and gold; but <hi>with the precious blood of Chriſt.</hi>
+               </p>
+               <p>1 <hi>Iohn</hi> 1.7. And <hi>the blood of Ieſus Chriſt</hi> his Son, <hi>cleanſeth us from all ſin.</hi>
+               </p>
+               <p>
+                  <hi>Rev.</hi> 1.5. Who hath <hi>waſhed us from our ſins in his own blood.</hi>
+               </p>
+               <p>
+                  <hi>Rom.</hi> 4.25.</p>
+               <p>
+                  <hi>Iſa.</hi> 53.5. He was <hi>wounded for our tranſgreſſions,</hi> he was bruiſed for our iniquities.</p>
+               <p>1 Cor. 15.3. <hi>Chriſt dyed for our ſins,</hi> according to the Scri<g ref="char:EOLhyphen"/>ptures: he laid on him the iniqui<g ref="char:EOLhyphen"/>ties of us all.</p>
+               <p>
+                  <hi>Queſt,</hi> But how is the other Queſtion, of Chriſt his be<g ref="char:EOLhyphen"/>ing given, raiſed and exalted by another to be a Saviour, accord<g ref="char:EOLhyphen"/>ing to thoſe Scriptures, a name gi<g ref="char:EOLhyphen"/>ven, exalted to be a Saviour, raiſed unto <hi>Iſrael</hi> a Saviour, to be under<g ref="char:EOLhyphen"/>ſtood?</p>
+               <p>Anſw. As are thoſe Scriptures
+<pb n="35" facs="tcp:41426:35"/>in the fourth Chapter of the huma<g ref="char:EOLhyphen"/>nity of Chriſt: elſe the Scripture tels us, 1 Tim. 2, 6. <hi>He gave him<g ref="char:EOLhyphen"/>ſelf</hi> a ranſom: <hi>he gave himſelf</hi> for us.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII.</head>
+               <p>
+                  <hi>Q<g ref="char:V">Ʋ</g>eſt.</hi> Whereas he would im<g ref="char:EOLhyphen"/>pudently apply that Scri<g ref="char:EOLhyphen"/>pture, <hi>Joh.</hi> 3.13. No man hath aſcended into heaven, but he that came down from heaven, the Son of man which is in heaven: and what other Scriptures ſpeak him coming down from heaven, coming forth from God, and ſuch like; to this erroneous doctrine, that Chriſt as man, firſt aſcended into heaven, was there, and came down thence, ere he ſhewed himſelf to the world; is that according to truth? or doth he this meerly to avoid the force theſe Scriptures have in them to prove the Deity of the Son? what Scriptures have
+<pb n="36" facs="tcp:41426:36"/>you, that will ſufficiently prove he did not ſo aſcend as man, ere he was diſcovered to the world?</p>
+               <p>Anſw. Mat. 1.8. <hi>The birth of Jeſus</hi> was on this wiſe; when as his Mother <hi>Mary</hi> was eſpouſed to <hi>Joſeph,</hi> before they came toge<g ref="char:EOLhyphen"/>ther, <hi>ſhe was found with child</hi> of the holy Ghoſt: behold a Virgin ſhall <hi>be with child.</hi>
+               </p>
+               <p>
+                  <hi>Luke</hi> 1 30,31. And the Angel ſaid unto her, <hi>Mary;</hi> Behold <hi>thou ſhalt conceive in thy womb,</hi> and <hi>bring forth a Son.</hi>
+               </p>
+               <p>
+                  <hi>Mat.</hi> 2.8. Search diligently for <hi>the young child: ver.</hi> 9. ſtood over where <hi>the young childe was: verſ.</hi> 11. They ſaw <hi>the young child with</hi> Mary <hi>his Mother: verſ.</hi> 13. Ariſe, take <hi>the child and his Mo<g ref="char:EOLhyphen"/>ther:</hi> for <hi>Herod</hi> ſeeketh <hi>the child</hi> to deſtroy him: <hi>verſ.</hi> 14, 15. He aroſe and took <hi>the babe and his Mother,</hi> and departed into Egypt, and was there until the death of <hi>Herod;</hi> that it might be fulfilled
+<pb n="37" facs="tcp:41426:36"/>which was ſpoken of the Lord by the Prophet, ſaying, <hi>Out of Egypt have I called my ſon: verſ.</hi> 19, 20, 21. And when <hi>Herod</hi> was dead, behold an Angel of the Lord ap<g ref="char:EOLhyphen"/>peared in a dream to <hi>Ioſeph</hi> in <hi>E<g ref="char:EOLhyphen"/>gypt,</hi> ſaying, Ariſe, and <hi>take the babe and his Mother,</hi> and go into the Land of <hi>Iſrael:</hi> Then he roſe up, and took <hi>the babe and his Mo<g ref="char:EOLhyphen"/>ther,</hi> and came into the Land of <hi>Iſrael. Verſ.</hi> 23. And went and <hi>dwelt in a City called</hi> Nazareth.</p>
+               <p>
+                  <hi>Luke</hi> 2.40. And <hi>the child grew,</hi> and waxed ſtrong in the Spirit, 42. Now when <hi>he was twelve years old.</hi> 43. The <hi>child Ieſus re<g ref="char:EOLhyphen"/>mained in</hi> Jeruſalem. 51.52. And he <hi>went down with them, and</hi> came <hi>to</hi> Nazareth and was ſubject to them, and <hi>Ieſus increaſed in</hi> wiſ<g ref="char:EOLhyphen"/>dom and <hi>ſtature.</hi>
+               </p>
+               <p>Joh. 20.17. <hi>Ieſus ſaid</hi> unto her, Touch me not, <hi>for I am not yet aſcended unto my Father:</hi> but I a<g ref="char:EOLhyphen"/>ſcend unto my father and your father.</p>
+               <pb n="38" facs="tcp:41426:37"/>
+               <p>
+                  <hi>Queſt.</hi> Theſe Scriptures prove indeed ſufficiently, that Jeſus was conceived among us; for ſhe was with child; born among us: ſeen among us: removing from place to place among us: growing in years and ſtature, and gifts among us: and after all this his own teſti<g ref="char:EOLhyphen"/>mony, after his reſurrection, do ſufficiently prove, he aſcended not as man, before he deſcended; what uſe then ſhall thoſe Scriptures turn to, which he abuſes to that end?</p>
+               <p>
+                  <hi>Ioh.</hi> 3.13. No man hath aſcend<g ref="char:EOLhyphen"/>ed, but he that hath deſcended, the Son of man which is in hea<g ref="char:EOLhyphen"/>ven.</p>
+               <p>
+                  <hi>Iohn.</hi> 8.42. I came from God. <hi>Verſ.</hi> 29. I am from above.</p>
+               <p>
+                  <hi>Iohn</hi> 13.1.3. Jeſus knowing that he came from God.</p>
+               <p>
+                  <hi>Ioh.</hi> 16.28, 30. I came forth from the Father: by this we be<g ref="char:EOLhyphen"/>lieve that thou cameſt from God.</p>
+               <p>Anſw. Add them all to that
+<pb n="39" facs="tcp:41426:37"/>Teſtimony afforded us by the Scripture, <hi>Rom.</hi> 9.5. <hi>Who is God over all, bleſſed for evermore, Amen.</hi>
+               </p>
+               <p>
+                  <hi>Queſt.</hi> Whereas our Cate<g ref="char:EOLhyphen"/>chiſt quotes ſeveral Scriptures, importing that he that believes ſhall be ſaved; if we hold faſt our confidence to the end; if a man purge himſelf, if through the ſpirit we mortifie the deeds of the fleſh, we ſhall live; if we repent, our ſins ſhall be blotted out; if we do theſe things, happy are we; if we ſuffer with him, we ſhall al<g ref="char:EOLhyphen"/>ſo raign: and whereby he de<g ref="char:EOLhyphen"/>ducts—that the promiſes of the Goſpel are propounded con<g ref="char:EOLhyphen"/>ditionally to faith, perſeverance, obedience, doing and uttering, which indeed is true, but mean time conceals that Truth, which ought to be conſidered herewith, name<g ref="char:EOLhyphen"/>ly, that we may perform theſe conditions, we muſt have recourſe to an abſolute promiſe: are there
+<pb n="40" facs="tcp:41426:38"/>not therefore Scriptures that make all theſe firſt to be Gods gift, ere they are our Act? repeat ſome among many.</p>
+               <p>
+                  <hi>Anſw. Gal.</hi> 5.22. <hi>The fruit of the ſpirit</hi> is love, joy, peace, long ſuffering, gentleneſs, goodneſs, <hi>faith,</hi> &amp;c.</p>
+               <p>
+                  <hi>Eph.</hi> 6.23. Peace be to the Brethren, and love, with <hi>faith, from God the Father, and from our Lord Ieſus Chriſt.</hi>
+               </p>
+               <p>
+                  <hi>Heb.</hi> 12.2. Looking unto <hi>Jeſus the Author and finiſher of our faith.</hi>
+               </p>
+               <p>
+                  <hi>Eph.</hi> 2.8. By grace are ye ſaved through <hi>faith in Ieſus;</hi> and that not of your ſelves, <hi>it is the gift of God.</hi>
+               </p>
+               <p>
+                  <hi>Acts</hi> 26.22. <hi>I obtained help of God, and continue</hi> unto this day.</p>
+               <p>2 <hi>Tim.</hi> 2.14. And <hi>the Lord will deliver me</hi> from every evil work, and will <hi>preſerve me</hi> unto his hea<g ref="char:EOLhyphen"/>venly Kingdom.</p>
+               <p>
+                  <hi>Heb.</hi> 13.20, 21. <hi>The God of peace</hi>
+                  <pb n="41" facs="tcp:41426:38"/>that brought again from the dead, our Lord Jeſus Chriſt, the great Shepheard of the Sheep, tho<g ref="char:EOLhyphen"/>rough the blood of the everlaſting Covenant, <hi>make you perfect in all good works, to do his will,</hi> working in you what is pleaſing in his ſight thorough Jeſus Chriſt, to whom be praiſe for ever and ever, Amen.</p>
+               <p>
+                  <hi>Eze.</hi> 11.19. And I will give them one heart, and I will put a new ſpirit in their bowels, and will take their ſtony heart out of their bodies, and I will give them a heart of fleſh, that they may walk in my ſtatutes, and keep my Judgements, and execute them. <hi>Hoſea</hi> 14.9. The wayes of the Lord are juſt, and the r ghteous ſhall walk in them.</p>
+               <p>
+                  <hi>Phil.</hi> 2.13. For it is <hi>God that worketh in you, both to will and to do,</hi> of his good pleaſure.</p>
+               <p>
+                  <hi>Acts</hi> 5.31. Him hath God raiſ<g ref="char:EOLhyphen"/>ed up, with his right hand, to be a Prince and Saviour to Iſrael, <hi>to
+<pb n="42" facs="tcp:41426:39"/>give repentance</hi> and forgiveneſs of ſins.</p>
+               <p>
+                  <hi>Acts.</hi> 11.17, 18. Foraſmuch then as <hi>God gave them a like gift as he did unto us, who believed</hi> in the Lord Jeſus Chriſt, who was I that I could let God? when they heard theſe things, they held their peace, and glorified God, ſaying, then hath <hi>God alſo granted</hi> unto the Gentiles <hi>repentance</hi> unto life!</p>
+               <p>
+                  <hi>Rom.</hi> 2.4. Or deſpiſeſt thou the riches of his bounty, and patience, and long-ſuffering, not knowing that <hi>the bountifulneſs of God lead<g ref="char:EOLhyphen"/>eth thee to repentance.</hi> 2 <hi>Tim.</hi> 2.24, 25. But the Servant of the Lord muſt not ſtrive, but be gen<g ref="char:EOLhyphen"/>tle toward all men, apt to teach, ſuffering the evil men patiently, inſtructing them with meekneſs that are contrary-minded, pro<g ref="char:EOLhyphen"/>ving <hi>if God</hi> at any time <hi>will give them repentance,</hi> that they may ac<g ref="char:EOLhyphen"/>knowledge the Truth, and come to amendment out of the ſnare of
+<pb n="43" facs="tcp:41426:39"/>the Devil, of whom they are ta<g ref="char:EOLhyphen"/>ken priſoners to do his will.</p>
+               <p>
+                  <hi>Phil.</hi> 1.19. <hi>
+                     <g ref="char:V">Ʋ</g>nto you it is gi<g ref="char:EOLhyphen"/>ven</hi> for Chriſt, that not onely you ſhould <hi>believe in him,</hi> but alſo <hi>ſuf<g ref="char:EOLhyphen"/>fer for his ſake.</hi>
+               </p>
+            </div>
+            <div n="9" type="chapter">
+               <head>CHAP. IX.</head>
+               <p>
+                  <hi>Q<g ref="char:V">Ʋ</g>eſt.</hi> Though the many Scriptures cited do prove the Divinity of the Son, and we do in the main refer all other by ſtrokes thereat (one whereof we have in this Chapter) to that diſtinct head, yet whereas here is quoted <hi>Mat.</hi> 9.2, 3, 4, importing that the Son of man hath power on earth to forgive ſins; and that the multi<g ref="char:EOLhyphen"/>tude glorified God, which had given ſo much power unto men</p>
+               <p>
+                  <hi>Acts</hi> 5.31. Him hath God exalted to be a Prince and Savi<g ref="char:EOLhyphen"/>our to give repentance and remiſ<g ref="char:EOLhyphen"/>ſion of ſins to Iſrael; which Scrip<g ref="char:EOLhyphen"/>ture he accommodates by his
+<pb n="44" facs="tcp:41426:40"/>Queſtion, to his Lye; namely, that Chriſt forgiving ſins on earth and heaven, does it as a man impow<g ref="char:EOLhyphen"/>ered and exalted by God, and not as God: That ſo he may re<g ref="char:EOLhyphen"/>move the irreſiſtible force of this argument, He that forgives ſins, is God; but the man Jeſus Chriſt forgives ſins: <hi>Ergo.</hi> Have you ther<g ref="char:EOLhyphen"/>fore no Scripture that directly proves this thing; that what the Lord Jeſus did in the work of Re<g ref="char:EOLhyphen"/>demption and forgiveneſs of ſins, he did it as God? and ſo what ere act he did as Mediator, he did by vertue of his Divine nature.</p>
+               <p>
+                  <hi>Acts</hi> 20.28. The <hi>Church of God</hi> which he hath <hi>purchaſed with his own blood.</hi>
+               </p>
+            </div>
+            <div n="10" type="chapter">
+               <head>CHAP. X.</head>
+               <p>
+                  <hi>Q<g ref="char:V">Ʋ</g>eſt.</hi> What ſhall we ſay to this Blaſphemer, who yet in deſpight of Jeſus Chriſt, God bleſ<g ref="char:EOLhyphen"/>ſed for ever, abuſeth that place, <hi>Iohn</hi> 22.23. The father judgeth no man, but hath committed all
+<pb n="45" facs="tcp:41426:40"/>Judgement to the Son, that all men ſhould honour the Son, even as they honour the Father; to th s curſed end. The Son is not to be honoured as the Father, becauſe he hath not the ſame eſteem with the Father, but the ſame judiciary power; that ſo he may divert the dint of two unanſwerable Argu<g ref="char:EOLhyphen"/>ments in this glorious Text. 1. He that is Judge of all the world, is God: but the Son is Judge of all the world. <hi>Ergo Gen.</hi> 18.22, 25. And <hi>Abraham</hi> ſtood before the Lord, and ſaid, Shall not the Judge of all the world do right? And the Lord anſwered. If I ſhall find 50. perſons in <hi>Sodom</hi> righteous. I will ſpare the place for their ſakes. 2. The ſecond is, He that is to be Honoured even as the Father, is equal to the Father; but the Son is to be Honoured even as the Father, <hi>Ergo.</hi> So that though there be enough in the naming this Scripture, to con<g ref="char:EOLhyphen"/>fute
+<pb n="46" facs="tcp:41426:41" rendition="simple:additions"/>this child of Satan, yet have ye no Scripture over and above thoſe Scriptures already brought to vindicate the Divinity of the Son that expreſly proves the Son is honoured as he is, and becauſe he is God?</p>
+               <p>
+                  <hi>Anſw.</hi> 1 <hi>Pet.</hi> 3.15. <hi>Sanctifie the Lord God</hi> in your hearts, that they may be aſhamed which blame <hi>your good converſation in Chriſt.</hi>
+               </p>
+               <p>
+                  <hi>Luke</hi> 17.15, 16, 17. Then one of them when he ſaw that he was healed, turned back, and with a loud voice <hi>praiſed God, and fell down on his face at his feet, and gave him thanks;</hi> and he was a <hi>Samaritan.</hi> But Jeſus anſwered and ſaid, Are there not ten cleanſed, but where are the nine? <hi>There were none found to give God thanks ſave this ſtranger.</hi>
+               </p>
+               <p>
+                  <hi>Queſt.</hi> Since in this Chapter he belches out yet more blaſphe<g ref="char:EOLhyphen"/>my, what ſhall be ſaid in anſwer to his perverting of this Scripture?
+<pb n="47" facs="tcp:41426:41"/>
+                  <hi>Iohn</hi> 5 27. he hath authority to execute Judgement, becauſe he is the Son of man; Chriſt therefore, ſaith he, had it not as he is God; and that <hi>Rev.</hi> 1.5, 6, 11, 12. Un<g ref="char:EOLhyphen"/>to him which waſhed us from our own ſins in his own blood, be glo<g ref="char:EOLhyphen"/>ry and dominion; worthy is the Lamb that was ſlain; when ſaies he, Saints and Angels praiſe him, not becauſe he is very God, of very God, but becauſe he died for us.</p>
+               <p>
+                  <hi>Anſw.</hi> Theſe are ſufficiently ſpoken to in the Scriptures to the other Anſwer; yet more to follow him, in regard in this Queſtion he blaſphemes the term very God of very God, ſee <hi>Phil.</hi> 2.5, 6.7 8.9, Let the ſame mind be in you, which was in Chriſt Jeſus, who being in the <hi>form of God,</hi> thought it no rob<g ref="char:EOLhyphen"/>bery to be equal with God; but he made himſelf of no reputation, and took on him the form of a Servant, and was made like unto
+<pb n="48" facs="tcp:41426:42"/>man, and was found in ſhape as a man; he humbled himſelf, and be<g ref="char:EOLhyphen"/>came obedient unto the death, even the death of the Croſs where<g ref="char:EOLhyphen"/>fore God alſo highly exalted him, and gave him a name above every name.</p>
+               <p>1 <hi>Iohn</hi> 5.20. But we know that the <hi>Son of God</hi> is come, and hath given us a mind to know him that is true and we are in him that is true; that is, in his Son <hi>Ieſus Chriſt; this ſame is very God,</hi> and eternal life.</p>
+               <p>
+                  <hi>Iohn</hi> 1.14. And the word was made fleſh, and pitched his tents among us: and we ſaw the glory thereof as the glory of <hi>the onely begotton Son of the Father,</hi> full of grace and truth.</p>
+            </div>
+            <div n="11" type="chapter">
+               <head>CHAP. XI.</head>
+               <p>
+                  <hi>Q<g ref="char:V">Ʋ</g>eſt.</hi> There being two parts of the Prieſthood, of Chriſts ſatisfaction, and interceſſion, ac<g ref="char:EOLhyphen"/>cording to the Scriptures; its the
+<pb n="49" facs="tcp:41426:42"/>deſign of this Chapter to make void the firſt of them, name<g ref="char:EOLhyphen"/>ly the ſatisfaction of Chriſt by making the Prieſthood of Chriſt meerly to conſiſt with latter name<g ref="char:EOLhyphen"/>ly his interceſſion; contrary to that rule, What God hath joyned, let no man put aſunder: And whereas he doth this, Firſt, by <hi>Heb</hi> 8.4. If he were on earth, he ſhould not be a Prieſt. <hi>Heb.</hi> 7.15, 16. There ariſeth another Prieſt, made not after the Law of a Car<g ref="char:EOLhyphen"/>nal Commandement, but after the power of an endleſs life; hereby concluding, that Chriſt was not a Prieſt untill after his death and reſurrection; and if ſo, no Prieſt upon the Croſs; ſince then this is ſo weighty a buſineſs, what ſaith the Scripture in other places?</p>
+               <p>
+                  <hi>Anſw.</hi> The Scriptures to this thing are already cited in the ſixth Chapter. All centring in that, 1 <hi>Cor.</hi> 15.3. <hi>Chriſt died for us ac<g ref="char:EOLhyphen"/>cording
+<pb n="50" facs="tcp:41426:43"/>to the Scriptures.</hi>
+               </p>
+               <p>
+                  <hi>Queſt.</hi> But whereas that Scrip<g ref="char:EOLhyphen"/>ture, <hi>Heb.</hi> 7.25. he is able to ſave, ſeeing he ever lives to make interceſſion for us, is alledged: doth he ſave only by his interceſſi<g ref="char:EOLhyphen"/>on, or by his interceſſion without his ſatisfaction? What other Scriptures therefore have you to prove Chriſt to be a Prieſt, and a Prieſt able to ſave, becauſe he of<g ref="char:EOLhyphen"/>fered up himſelf?</p>
+               <p>
+                  <hi>Anſw.</hi> Many, but ſome of the principal our adverſary names, I cannot tell why, unleſs that we ſhould not.</p>
+               <p>
+                  <hi>Heb.</hi> 9.28. <hi>Chriſt was once offered</hi> up to bear the ſins of many.</p>
+               <p>
+                  <hi>Heb.</hi> 10.11, 12. This man af<g ref="char:EOLhyphen"/>ter <hi>he had offered one ſacrifie</hi> for ſins <hi>for ever,</hi> ſat down at the right hand of God; for <hi>by one offering he hath perfected for ever them that are ſanctified.</hi>
+               </p>
+               <p>
+                  <hi>Heb.</hi> 7.26.27. For ſuch <hi>a High-Prieſt</hi> it became us to have, which
+<pb n="51" facs="tcp:41426:43"/>is holy, harmleſs, undefiled, ſepa<g ref="char:EOLhyphen"/>rate from ſinners, and made higher then the Heavens; which needed not daily, as theſe High-Prieſts, <hi>to offer up a ſacrifie,</hi> firſt for his own ſins, and then for the peo<g ref="char:EOLhyphen"/>ples <hi>for that he did once when he offered up himſelf.</hi>
+               </p>
+               <p>
+                  <hi>Queſt.</hi> Doth our Catechiſt pre<g ref="char:EOLhyphen"/>tend to expreſ place of Scripture, and yet tells us ſo impudent and known a lye, as that Chriſt entred into the holy place to offer him<g ref="char:EOLhyphen"/>ſelf, as in his nineth Queſtion, in this Chapter, intimating he offer<g ref="char:EOLhyphen"/>ed himſelf not here; what will you then ſay to ſo bold a Blaſphemer?</p>
+               <p>
+                  <hi>Anſw. Acts</hi> 13.10. Oh full of all ſubtilty, and all miſchief, the child of the Devil. and enemy of all righteouſneſs! wilt not thou leave to pervert the ſtraight wayes of the Lord?</p>
+               <p>
+                  <hi>Queſt.</hi> What means that place in <hi>Heb.</hi> 9.12. By his own blood entred he into the holy place;
+<pb n="52" facs="tcp:41426:44"/>meaneth it that Chriſt was not a Prieſt? &amp;c. as this lying wretch inſinuates from this place, that Chriſt offered not himſelf till he went into the holy place; or rather means it that Chriſt by his offer<g ref="char:EOLhyphen"/>ing himſelf, and ſuffering upon the Croſs, then being a Prieſt, went up to God? rehearſe ſome paſſa<g ref="char:EOLhyphen"/>ges in this Chapter.</p>
+               <p>
+                  <hi>Anſw.</hi> Verſe 12.13, 14, 15. <hi>But Chriſt being come an High-Prieſt</hi> of good things to come, by a greater and more perfect Ta<g ref="char:EOLhyphen"/>bernacle, not made with hands, neither by the blood of Goats and Calves, but <hi>by his own blood en<g ref="char:EOLhyphen"/>tred he once into the holy place,</hi> and obtained Redemption for us; for if the blood of Bulls and Goats, and the aſhes of an Hiefer, ſprinkling them that are unclean, ſanctifieth as to the purifying of the fleſh; how much more ſhall the blood of Chriſt, which through the eternal ſpirit offered up him<g ref="char:EOLhyphen"/>ſelf
+<pb n="53" facs="tcp:41426:44"/>without ſpot unto God? ver. 24, 25, 26. <hi>for Chriſt</hi> is not en<g ref="char:EOLhyphen"/>tted into holy places that are made with hands, which are ſimi<g ref="char:EOLhyphen"/>litudes of the true Sanctuary, but is <hi>entred into the very heaven, to appear now in the ſight of God for us; not that he ſhould offer himſelf often, as the High-Prieſt entred into the holy place every year</hi> with other blood; <hi>(for then muſt he have often ſuffered,</hi> ſince the foundation of the world) <hi>but</hi> now <hi>in the end of the world</hi> hath he appeared <hi>once to put away ſins by the ſacrifice of himſelf.</hi>
+               </p>
+               <p>
+                  <hi>Queſt.</hi> ſhough indeed that ob<g ref="char:EOLhyphen"/>lation once offered for the ſins of many, which Chriſt offered up himſelf, was the great act of his Prieſtly office, yet was not Chriſt as Prieſt before his ſuffering? or came he to his Prieſtly office by ſuffering? That is to ſay, did he firſt ſuffer, and then was a Prieſt? Is that meant in that place, that
+<pb n="54" facs="tcp:41426:45"/>he might be a merciful and faithful High-Prieſt?</p>
+               <p>
+                  <hi>Anſw.</hi> Thou <hi>art a Prieſt for ever after the order of</hi> Melchiſedec; ſo ſpeaks the Pſalmiſt before Chriſt, <hi>Pſal.</hi> 110.4.</p>
+               <p>
+                  <hi>Queſt.</hi> Seeing we have ſuch an High-Prieſt, let us come boldly un<g ref="char:EOLhyphen"/>to the Throne of grace, <hi>Heb.</hi> 4.14.16. is the proper uſe indeed we ought to make of the Prieſt<g ref="char:EOLhyphen"/>hood of Chriſt, but principally re<g ref="char:EOLhyphen"/>ſpecting his interceſſion? what other Scripture therefore doth the Scripture direct us to, to be made of his ſatisfaction?</p>
+               <p>
+                  <hi>Anſw. Luke</hi> 1.68. <hi>Bleſſed be the Lord</hi> God of Iſrael, <hi>becauſe he viſited and Redeemed his people;</hi> and hath raiſed up the horn of ſal<g ref="char:EOLhyphen"/>vation unto us, in the houſe of his Servant <hi>David,</hi> ver. 74, 75. that we being delivered out of the hands of our enemies, ſhould ſerve him without fear, all the dayes of our life in holineſs and righteouſ<g ref="char:EOLhyphen"/>neſs
+<pb n="55" facs="tcp:41426:45"/>before him. <hi>Luke</hi> 2.8. to the 14. <hi>Rom.</hi> 5.8, 9, 11. While we were yet ſinners, Chriſt dyed for us: much more then <hi>being juſtified by his blood,</hi> we ſhall be ſaved from wrath through him; and not only ſo, but <hi>we rejoyce in God through our Lord Ieſus Chriſt, by whom we have received the atonement.</hi>
+               </p>
+               <p>1 <hi>Pet.</hi> 21.24. <hi>Chriſt ſuffered for us, leaving us an example,</hi> that we ſhould follow his ſteps, who his own ſelf bare our ſins in his body on the tree, that we being deliver<g ref="char:EOLhyphen"/>ed from ſin ſhould live in righte<g ref="char:EOLhyphen"/>ouſneſs; 2 <hi>Cor.</hi> 5,21. For he hath made him to be ſin for us, that we ſhould be made the righteouſ<g ref="char:EOLhyphen"/>neſs of God through him.</p>
+            </div>
+            <div n="12" type="chapter">
+               <head>CHAP. XII.</head>
+               <p>Q<g ref="char:V">Ʋ</g>eſt. Its demanded whither it were the will and purpoſe of God, that Chriſt ſhould, ſuffer
+<pb n="56" facs="tcp:41426:46"/>the death of the Croſs? what ſay you in anſwer?</p>
+               <p>
+                  <hi>Anſw.</hi> We ſay, anſwer and confeſs that he was delivered by the determinate councel and foreknowledge of God; and that what was done, was whatever Gods hand and councel derermi<g ref="char:EOLhyphen"/>ned before to be done; onely we would herewith take in that 9. to the <hi>Heb.</hi> 13. which ſaith expreſly that <hi>Chriſt through the eternal ſpirit, offered himſelf to God.</hi>
+               </p>
+               <p>
+                  <hi>Queſt.</hi> Reconciliation being properly betwixt two perſons at variance; the Mediator of Re<g ref="char:EOLhyphen"/>conciliation, hath in both theſe, re<g ref="char:EOLhyphen"/>ſpecting God and us, made an a<g ref="char:EOLhyphen"/>tonement and reconciliation: And becauſe God was the party offen<g ref="char:EOLhyphen"/>ded, the Scripture therefore ſpeaks that man was reconciled; hence are we ſaid to be reconci<g ref="char:EOLhyphen"/>led to God; God was in Chriſt re<g ref="char:EOLhyphen"/>conciling the world to himſelf; Chriſt ſuffered for ſins, that he might bring us to God.</p>
+               <pb n="57" facs="tcp:41426:46"/>
+               <p>But the adverſary of all truth takes occaſion hence to inſinuate that God was not at ods with us; and if ſo, needed no ſatisfaction: Therefore ſaith he, Chriſt died not to reconcile God to us, but us to God: That ſo he may null that glorious work of Chriſts ſatisfacti<g ref="char:EOLhyphen"/>on: To which in its proper place the Scriptures have already ſpo<g ref="char:EOLhyphen"/>ken; yet that this falſe concluſion may fall, do not the Scriptures ſay, we lay under the diſpleaſure of God, which was done away by that work of his ſatisfaction?</p>
+               <p>Anſw. We <hi>were the Children of wrath</hi> as well as others: Eph. 2.3. <hi>Chriſt</hi> hath <hi>redeemed us from the Curſe</hi> of the Law, when he was made a Curſe for us.</p>
+               <p>
+                  <hi>Gal.</hi> 2.13. Jeſus which deli<g ref="char:EOLhyphen"/>vereth <hi>from the wrath to come.</hi>
+               </p>
+               <p>1 Theſ. 1.10. — Rom. 5.9. <hi>Saved them from wrath to come</hi> through him.</p>
+               <p>
+                  <hi>Queſt.</hi> If we lay under the curſe
+<pb n="58" facs="tcp:41426:47"/>of the Law, and were children of wrath, and this curſe and wrath are we by this Mediator redeemed from; then indeed hath he recon<g ref="char:EOLhyphen"/>ciled God unto us by his ſatisfacti<g ref="char:EOLhyphen"/>on, that glorious part of his Me<g ref="char:EOLhyphen"/>diation: but have you no Scri<g ref="char:EOLhyphen"/>pture that doth expreſly hold out our reconciliation to God, by the blood of Chriſt, to be in order to our acceptance with God?</p>
+               <p>Anſw. <hi>Col.</hi> 1.19, 20, 21. For it pleaſed the Father that in him ſhould all fulneſs dwell, and <hi>by him to reconcile all things to himſelf:</hi> and to ſet at peace, through the blood of his croſs, both the things in heaven, and the things on earth: and you which were in times paſt ſtrangers and enemies, becauſe your mindes were ſet on evil works, hath he now alſo re<g ref="char:EOLhyphen"/>conciled in the body of his fleſh, through death, to make you holy and unblameable, and <hi>without fault in his ſight.</hi>
+               </p>
+               <pb n="59" facs="tcp:41426:47"/>
+               <p>
+                  <hi>Rom.</hi> 5.9.10. When we were enemies <hi>we were reconciled to God</hi> through his ſon; and not only ſo, but we all rejoyce in God through our Lord Jeſus Chriſt, by whom <hi>we have now received the atone<g ref="char:EOLhyphen"/>ment.</hi>
+               </p>
+               <p>
+                  <hi>Queſt.</hi> When the Scripture ſays Chriſt dyed for our ſins, our ſins indeed procured his death Accidentally: for we might have ſinned, and Chriſt not have dyed, which is <hi>cauſa cauſata</hi> but where<g ref="char:EOLhyphen"/>to doth the Scripture aſſign the firſt principal and moving cauſe which is <hi>cauſa cauſans?</hi>
+               </p>
+               <p>Anſw. John 3.16. <hi>Grd ſo loved the world, that he gave his</hi> only be<g ref="char:EOLhyphen"/>gotten <hi>Son.</hi> Gal. 2.20. Who loved me, <hi>and gave himſelf</hi> for me.</p>
+               <p>
+                  <hi>Rev.</hi> 1.5. Unto him <hi>that loved us, and waſhed us from our ſins</hi> in his own blood.</p>
+               <p>
+                  <hi>Queſt.</hi> Chriſt indeed learned obedience by the things he ſuffer<g ref="char:EOLhyphen"/>ed, left us an example, brought
+<pb n="60" facs="tcp:41426:48"/>us to God, deſtroyed him that had the power of death, ſanctifie us with his own blood, makes us live together, with him, not live to our ſelves; which are glorious ends; the Scripture tels us of the death of Chriſt: but are theſe the only ends of Chriſts death the Scrip<g ref="char:EOLhyphen"/>ture mentions? if not, what other principal end is here omitted?</p>
+               <p>Anſw. <hi>Epheſ.</hi> 1.7. We have <hi>re<g ref="char:EOLhyphen"/>demption through his blood, even the forgiveneſs of ſins.</hi>
+               </p>
+               <p>
+                  <hi>Col.</hi> 1.14. Same words, <hi>Epheſ.</hi> 1.14. <hi>Redemption</hi> of the poſſeſſi<g ref="char:EOLhyphen"/>on purchaſed.</p>
+               <p>
+                  <hi>Gal.</hi> 4.5. When the fulneſs of time was come, God ſent forth his ſon, made of woman, and made under the Law, <hi>that he might re<g ref="char:EOLhyphen"/>deem them which were under the Law.</hi>
+               </p>
+               <p>
+                  <hi>Titus</hi> 2.13, 14. Our Saviour Jeſus Chriſt, who gave himſelf for us, <hi>that he might redeem us from all iniquities.</hi>
+               </p>
+            </div>
+            <div n="13" type="chapter">
+               <pb n="61" facs="tcp:41426:48"/>
+               <head>CHAP. XIII.</head>
+               <p>Q<g ref="char:V">Ʋ</g>eſt. Were there neither Scripture nor Argument againſt the doctrine of univerſal love and general Redemption, this were enough to a ſober mind to Queſtion it, in that its bound up in the volume of our Authors Truth; and ſo vigorouſly conten<g ref="char:EOLhyphen"/>ded for by ſuch a Maſter of here<g ref="char:EOLhyphen"/>ſie; And may cauſe our late aſ<g ref="char:EOLhyphen"/>ſertors thereof to bluſh to ſee their opinion touching ſo impor<g ref="char:EOLhyphen"/>tant an head in Divinity, inſerted in ſo black and Atheiſtical a Calen<g ref="char:EOLhyphen"/>der: But to the thing; the Scrip<g ref="char:EOLhyphen"/>tures ſpeaking Chriſt dyed for all gave himſelf a ranſom for all, taſted death for every man, giveth life to the world, will have all men be ſaved, all ſhould come to repentance, for the ſins of the whole world, &amp;c. and other ſuch of a general tendency; how muſt
+<pb n="62" facs="tcp:41426:49"/>they be underſtood? of a ge<g ref="char:EOLhyphen"/>neral confuſed and univerſal love to men, ſo that God wil<g ref="char:EOLhyphen"/>led, and Chriſt effected the Salva<g ref="char:EOLhyphen"/>tion of all men? or elſe according to reſtraint given us in other Scriptures? to the Election of the Father: the prayer of Chriſt: the faith, and obedience of men: the ſheep of Chriſt: his Church: ſuch whom his Father hath given him: his people; his peculiar people: and this general term <hi>all,</hi> ex<g ref="char:EOLhyphen"/>pounded by other Scriptures, to be <hi>many?</hi> which will if ſo, effectu<g ref="char:EOLhyphen"/>ally prove, that though Chriſt is indeed in common tendered, and propounded to all men, but intended and effectually applyed only according to theſe reſtraints. Rehearſe the Scriptures therefore on each of theſe.</p>
+               <p>Anſw. <hi>Rom.</hi> 9.11, 12.13. For <hi>ere the Children were born,</hi> and when they <hi>had done neither good nor evil, that the purpoſe of God might re<g ref="char:EOLhyphen"/>main
+<pb n="63" facs="tcp:41426:49"/>according to Election,</hi> not by works, but by him that calleth, it was ſaid, the elder ſhall ſerve the younger, as it is written, I have loved <hi>Iacob,</hi> and hated <hi>Eſau.</hi>
+               </p>
+               <p>
+                  <hi>Rom.</hi> 11.5. Even ſo then at this preſent is there <hi>a remnant accord<g ref="char:EOLhyphen"/>ing to the election of grace;</hi> ver. 7. <hi>The Election have obtained it; the reſt have been hardned.</hi> v. 28. <hi>As touching the election, they are be<g ref="char:EOLhyphen"/>loved</hi> for the Fathers ſake.</p>
+               <p>
+                  <hi>Iohn</hi> 17.9. <hi>I pray for them; I pray not for the world, but for them which thou haſt given me,</hi> for they are thine.</p>
+               <p>
+                  <hi>Ioh.</hi> 3.16. God ſo loved the world, <hi>that whoſoever believeth on him,</hi> ſhould not periſh, but have everlaſting life.</p>
+               <p>
+                  <hi>Iohn</hi> 12.46. I come a light into the world, that <hi>whoſoever believeth in</hi> me, ſhould not abide in the dark<g ref="char:EOLhyphen"/>neſs.</p>
+               <p>
+                  <hi>Acts</hi> 10.43. To him alſo give the Prophets witneſs that through
+<pb n="64" facs="tcp:41426:50"/>his name, all that believe in him ſhall receive remiſſion of ſins.</p>
+               <p>
+                  <hi>Rom.</hi> 3.22. The righteouſneſs of God by the Faith of Jeſus Chriſt, <hi>unto all, and upon all that believe.</hi>
+               </p>
+               <p>
+                  <hi>Heb.</hi> 5.9. Being conſecrate, was made the Author of eternal Salvation <hi>to all them that obey him.</hi>
+               </p>
+               <p>Mat. 25.33. And he ſhall ſet <hi>his ſheep on his right hand,</hi> and the Goats on his left.</p>
+               <p>John 10.26, 27. <hi>My ſheep</hi> hear my voice; <hi>and I give unto them eternal life.</hi>
+               </p>
+               <p>John 10.15. <hi>I lay down my life for my Sheep.</hi>
+               </p>
+               <p>
+                  <hi>Mat.</hi> 15.24. And he anſwered, and ſaid, <hi>I am not ſent but unto the loſt ſheep</hi> of the houſe of <hi>Iſrael.</hi>
+               </p>
+               <p>
+                  <hi>Acts</hi> 20.28. Take heed there<g ref="char:EOLhyphen"/>fore unto your ſelves, and to all the flock whereof the holy Ghoſt had made you overſeers, to feed <hi>the Church of God, which he hath
+<pb n="65" facs="tcp:41426:50"/>purchaſed with his own blood.</hi>
+               </p>
+               <p>
+                  <hi>Epheſ.</hi> 5.25. Husbands, love your wives, even as <hi>Chriſt loved the Church, and gave himſelf for it.</hi>
+               </p>
+               <p>
+                  <hi>Iohn</hi> 6.29. And this is the Fa<g ref="char:EOLhyphen"/>thers will who hath ſent me, that of <hi>all which he hath given me,</hi> I ſhould loſe nothing, but ſhould raiſe it up again at the laſt day.</p>
+               <p>
+                  <hi>Mat.</hi> 1.21. And ſhe ſhall bring forth a Son, and thou ſhalt call his name Jeſus, for he ſhall <hi>ſave his people</hi> from their ſins.</p>
+               <p>
+                  <hi>Titus</hi> 2.13, 14. Looking for the bleſſed hope, and appearing of the glory of the mighty God, and of our Saviour Jeſus Chriſt; who gave himſelf for us, that he might redeem us from all iniquity, and purge us to be a <hi>peculiar people</hi> un<g ref="char:EOLhyphen"/>to himſelf, zealous of good works.</p>
+               <p>Mat. 20.28. The Son of man came not to be ſerved, but to ſerve, and <hi>to give his life a ranſom for many.</hi>
+               </p>
+               <pb n="66" facs="tcp:41426:51"/>
+               <p>
+                  <hi>Mat.</hi> 26.28. This is the blood of the new Teſtament which is <hi>ſhed for many, for the remiſſion of ſins: Heb.</hi> 9.28. Chriſt was <hi>once offered to take away the ſins of ma<g ref="char:EOLhyphen"/>ny.</hi>
+               </p>
+               <p>
+                  <hi>Iſa.</hi> 53.11. But his knowledge ſhall my righteous ſervant <hi>juſtifie many;</hi> for he ſhall bear their ini<g ref="char:EOLhyphen"/>quities.</p>
+               <p>
+                  <hi>Queſt.</hi> Theſe Scriptures are undeniable as to this great point; but is there not a general, providential, temporal good, mer<g ref="char:EOLhyphen"/>cy and ſalvation in God, common to all men? yea to irrational crea<g ref="char:EOLhyphen"/>tures as well as men?</p>
+               <p>Anſw. <hi>Pſal.</hi> 145.8, 9. The Lord doth <hi>good to all,</hi> and his tender mercies are <hi>over all his works.</hi>
+               </p>
+               <p>
+                  <hi>Pſal.</hi> 36. O Lord, thou <hi>ſaveſt man and beaſt.</hi>
+               </p>
+               <p>
+                  <hi>Queſt.</hi> In this Chapter we have another blow at the Godhead of the Son; The Scriptures abuſed to this end are ſuch as tel us, Chriſt
+<pb n="67" facs="tcp:41426:51"/>was raiſed by God, by the power of God, by the glory of the Fa<g ref="char:EOLhyphen"/>ther, and ſuch like: whence it is concluded, Chriſt roſe not by his own power, but by the power of another: Is that therefore the language of theſe Scriptures; which tels us, he was not raiſed by him<g ref="char:EOLhyphen"/>ſelf? Touching that, we muſt ad<g ref="char:EOLhyphen"/>dreſs to other Scriptures; what therefore ſaith the Lord himſelf touching this thing?</p>
+               <p>Anſw. <hi>Iohn</hi> 2.19, 20, 21. Je<g ref="char:EOLhyphen"/>ſus anſwered, and ſaid unto them, <hi>Deſtroy this Temple,</hi> and in three days <hi>I will raiſe it up again:</hi> then ſaid the Jews, Forty and ſix years was this Temple a building, and wilt thou rear it in three days? but <hi>he ſpake of the Temple of his body.</hi>
+               </p>
+               <p>
+                  <hi>Iohn</hi> 10.17. Therefore doth my Father love me, becauſe <hi>I lay down my life, that I may take it again: no man taketh it from me: But I lay it down of my ſelf; I have power to lay it down, and I have power to take it again.</hi>
+               </p>
+               <pb n="68" facs="tcp:41426:52"/>
+               <p>
+                  <hi>Queſt.</hi> This diſcourſe of the re<g ref="char:EOLhyphen"/>ſurrection was improvidently medled with to that end intend<g ref="char:EOLhyphen"/>ed; for if the Lord Jeſus Chriſt did by his own power raiſe him<g ref="char:EOLhyphen"/>ſelf from the dead, as thoſe Scrip<g ref="char:EOLhyphen"/>tures prove, then onely was he God; yet have you not other Scriptures do prove, that when God the Father raiſed up the Son from the dead, the Son then raiſ<g ref="char:EOLhyphen"/>ed up himſelf, inaſmuch as the Father and the Son work together in one and the ſame work?</p>
+               <p>
+                  <hi>Anſw. John</hi> 5.21. For likewiſe as the Father raiſeth up the dead, and quickneth them, <hi>ſo the Son quickeneth whom he will.</hi>
+               </p>
+               <p>
+                  <hi>John</hi> 5.19. Whatſoever things the Father doth, <hi>the ſame things doth the Son alſo;</hi> the father work<g ref="char:EOLhyphen"/>eth hitherto, <hi>and I work.</hi>
+               </p>
+            </div>
+            <div n="15" type="chapter">
+               <pb n="69" facs="tcp:41426:52"/>
+               <head>CHAP. XV.</head>
+               <p>
+                  <hi>Q<g ref="char:V">Ʋ</g>eſt.</hi> To uſher in the doctrine of works, way is made for it by confounding the terms, Iu<g ref="char:EOLhyphen"/>ſtification and Righteouſneſs; as if they were but one and the ſame thing, when indeed there's nothing leſs; for the Scripture indeed tels us of a righteouſneſs which is of the Law, but nowhere a Iuſtifica<g ref="char:EOLhyphen"/>tion which is of the Law. That we may therefore underſtand them both, let us hear the Scrip<g ref="char:EOLhyphen"/>ture ſpeaking touching them both; and firſt for Iuſtification; doth not the Scripture expreſly ſay, it cannot be righteouſneſs in us?</p>
+               <p>
+                  <hi>Anſw. Pſal.</hi> 143.3. <hi>For in thy ſight ſhall no man that liveth be ju<g ref="char:EOLhyphen"/>ſtified,</hi> Rom. 4.5. To him that worketh not, but believes on him that <hi>juſtifies the ungodly,</hi> his faith is accounted for Righteouſ<g ref="char:EOLhyphen"/>neſs.</p>
+               <pb n="70" facs="tcp:41426:53"/>
+               <p>
+                  <hi>Queſt.</hi> Juſtification then cannot be righteouſneſs in us, but accoun<g ref="char:EOLhyphen"/>ted to us; what is Juſtification then but remiſſion of ſins? and doth not the Scripture make our Juſti<g ref="char:EOLhyphen"/>fication to conſiſt herein, that ini<g ref="char:EOLhyphen"/>quities are forgiven, and ſin not imputed?</p>
+               <p>
+                  <hi>Anſw. Pſal.</hi> 32.1. Bleſſed is he whoſe iniquitie is forgiven, and whoſe ſin is covered: bleſſed is the man to whom God imputeth not ſin.</p>
+               <p>
+                  <hi>Queſt.</hi> But how prove you this is meant to be Juſtification? doth not the Apoſtle <hi>Paul,</hi> treating on this very thing Iuſtification, quote this very place, ſumming up Iuſti<g ref="char:EOLhyphen"/>fication in two parts; Imputation of righteouſneſs without works, non-Imputation of ſin?</p>
+               <p>
+                  <hi>Anſw. Rom.</hi> 4.2, 5, 6, 7, 8. For if <hi>Abraham</hi> were <hi>Iuſtified by works,</hi> he had wherewith to boaſt, but <hi>not before God;</hi> But <hi>to him that worketh not, but believeth</hi> on him
+<pb n="71" facs="tcp:41426:53"/>that iuſtifieth the ungodly, <hi>his faith is accounted for Righteouſ<g ref="char:EOLhyphen"/>neſs;</hi> even as <hi>David</hi> declareth the bleſſedneſs of the man to whom <hi>the Lord Imputeth righteouſneſs without works:</hi> ſaying, Bleſſed are they whoſe iniquities are forgi<g ref="char:EOLhyphen"/>ven, and whoſe ſins are covered: bleſſed is the man to whom the Lord imputeth not ſin.</p>
+               <p>
+                  <hi>Queſt.</hi> What then is our Righ<g ref="char:EOLhyphen"/>teouſneſs? doth not the Scripture tell us, its the ſatisfaction and obe<g ref="char:EOLhyphen"/>dience of Chriſt, in life and death performed for us, and of God freely imputed to us that believe? report the language of the Scrip<g ref="char:EOLhyphen"/>ture touching this glorious im<g ref="char:EOLhyphen"/>port, firſt of his ſatisfaction?</p>
+               <p>
+                  <hi>Anſw.</hi> 1 <hi>Cor.</hi> 2.2. For I deter<g ref="char:EOLhyphen"/>mined to know nothing among you ſave <hi>Ieſus Chriſt, and him crucified.</hi> Eſay 53.5, 6. <hi>By his ſtripes we are healed, the Lord hath laid upon him the iniquities of us all.</hi>
+               </p>
+               <pb n="72" facs="tcp:41426:54"/>
+               <p>
+                  <hi>Luke</hi> 22.20. This cup is the New Teſtament <hi>in my blood,</hi> which <hi>is ſhed for you.</hi>
+               </p>
+               <p>
+                  <hi>Rom.</hi> 3.24. <hi>Juſtified freely by his grace, through the Redemption which is in Chriſt Ieſus;</hi> whom God hath ſent forth to be <hi>a recon<g ref="char:EOLhyphen"/>ciliation through faith in his blood,</hi> to declare <hi>his righteouſneſs to the forgiveneſs of ſins.</hi>
+               </p>
+               <p>
+                  <hi>Rom</hi> 5.8, 9. While we were yet ſinners, <hi>Chriſt dyed for us;</hi> much more then, being <hi>juſtified by his blood,</hi> we ſhall be <hi>ſaved from wrath through him.</hi>
+               </p>
+               <p>Gal. 5.13. <hi>Chriſt hath redeem<g ref="char:EOLhyphen"/>ed us from the Curſe</hi> of the Law, <hi>when he was made a Curſe for us.</hi>
+               </p>
+               <p>
+                  <hi>Eph.</hi> 1.7. By whom we have <hi>Redemption through his blood,</hi> even <hi>the forgiveneſs of ſins.</hi>
+               </p>
+               <p>1 Joh 1.7. <hi>The blood of Ieſus Chriſt</hi> the Son of God, <hi>cleanſeth us from all ſin,</hi> Chriſt the Son of God cleanſeth from all ſins.</p>
+               <p>
+                  <hi>Col.</hi> 2.10. Ye are <hi>compleat in him.</hi>
+               </p>
+               <pb n="73" facs="tcp:41426:54"/>
+               <p>
+                  <hi>Rom</hi> 5.19. For as by one mans diſobedience, many were made ſinners: <hi>ſo by the obedience of one, ſhall many alſo be made righteous.</hi>
+               </p>
+               <p>
+                  <hi>Queſt.</hi> Its clear indeed, tha its the ſuffering of Chriſt, the obe<g ref="char:EOLhyphen"/>dience and righteouſneſs of Chriſt that makes us righteous, and juſti<g ref="char:EOLhyphen"/>fied; but then how doth the Scrip<g ref="char:EOLhyphen"/>ture ſay, his faith was counted righteouſneſs? <hi>Abrabam</hi> belie<g ref="char:EOLhyphen"/>ved in God, and he counted it for righteouſneſs: Is it (contrary to the ſenſe of all the forementi<g ref="char:EOLhyphen"/>oned Scriptures) the act of faith, or the blood of Chriſt the Object of faith, that juſtifies? in ſhort, is Juſtification for our faith, or by it? how ſay the Scriptures?</p>
+               <p>
+                  <hi>Anſw. Eph.</hi> 2 10. <hi>By Grace are ye ſaved, through faith, and that not of your ſelves, it is the gift of God.</hi>
+               </p>
+               <p>
+                  <hi>Rom.</hi> 5.9. Being now <hi>juſtified by his blood.</hi>
+               </p>
+               <p>
+                  <hi>Queſt.</hi> But the Scriptures ſay, we are juſtified freely by grace,
+<pb n="74" facs="tcp:41426:55"/>the forgiveneſs of ſins according to the riches of his grace; eternal life is the gift of God, &amp;c. Is it ſo, as if the gift of God, and the me<g ref="char:EOLhyphen"/>rit of Chriſt are inconſiſtent? nay, rather do they ever act apart? may not, nay is not that which is a free gift of God, reſpecting us, the price of blood reſpecting Chriſt?</p>
+               <p>
+                  <hi>Anſw.</hi> We need no farther then the Scriptures wreſted on this very account.</p>
+               <p>
+                  <hi>Rom</hi> 3.24. We are juſtified <hi>freely by his grace, through the Re<g ref="char:EOLhyphen"/>demption</hi> that is in Chriſt Je<g ref="char:EOLhyphen"/>ſus.</p>
+               <p>
+                  <hi>Eph.</hi> 1.7. In whom we have <hi>Redemption through his blood, the forgiveneſs of ſins,</hi> according to the riches of his grace.</p>
+               <p>
+                  <hi>Rom.</hi> 6 23. The <hi>gift of God</hi> is eternal life, <hi>through Jeſus Chriſt</hi> our Lord.</p>
+               <p>
+                  <hi>Queſt.</hi> Doth not the Scripture ſay therefore poſitively, that we are bought with a price? and that
+<pb n="75" facs="tcp:41426:55"/>price is the precious blood of Je<g ref="char:EOLhyphen"/>ſus Chr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt?</p>
+               <p>
+                  <hi>Anſw.</hi> 1 Cor. 6.20. For <hi>ye are bought with a price.</hi>
+               </p>
+               <p>1 <hi>Cor.</hi> 7.23. <hi>Ye are bought with a price;</hi> be not the Servants of men.</p>
+               <p>1 <hi>Pet.</hi> 1.18, 19. Knowing that ye were not <hi>redeemed</hi> with corrup<g ref="char:EOLhyphen"/>tible things, as ſilver and gold, from your vain converſation, re<g ref="char:EOLhyphen"/>ceived by the traditions of the fa<g ref="char:EOLhyphen"/>thers, but <hi>with the precious blood of Ieſus Chriſt,</hi> as a Lamb unde<g ref="char:EOLhyphen"/>filed, and without ſpot.</p>
+               <p>
+                  <hi>Queſt</hi> Nay, more, doth not the Scripture expreſly ſay, that without this price of blood there is no remiſſion?</p>
+               <p>
+                  <hi>Anſw. Heb.</hi> 9.22. And almoſt all things are by the Law purged with blood, and <hi>without ſhedding of blood there is no remiſſion.</hi>
+               </p>
+            </div>
+            <div n="16" type="chapter">
+               <pb n="76" facs="tcp:41426:56"/>
+               <head>CHAP. XVI.</head>
+               <p>
+                  <hi>Queſt.</hi> Our Saviour tels us his Commandments are not grievous, his yoak is eaſiy, and his burden light; this indeed is a ſlight proof of our Maſter of Arts to conclude our poſſibility of keeping the Commandments of God: let's hear the ſenſe of the Apoſtle <hi>Paul</hi> to this very thing, affectionately expreſſing the deſire of his rege<g ref="char:EOLhyphen"/>nerate part to keep the Law of God, and his hearty cloſing there<g ref="char:EOLhyphen"/>with making good that of our Sa<g ref="char:EOLhyphen"/>viour: That his Commandments are not grievous, his yoak is eaſie, and his burden light: yet withall plainly telling us, that he was not able to keep them, by reaſon of his unregenerate part; and in plain terms giving our Maſter of Arts the lye.</p>
+               <p>
+                  <hi>Anſw. Rom.</hi> 7.14. — For we know the Law is ſpiritual,
+<pb n="77" facs="tcp:41426:56"/>but <hi>I am carnal, ſold under ſin;</hi> for <hi>that which I do I allow not;</hi> for <hi>that I would, that do I not;</hi> but <hi>what I hate, that I do:</hi> now then its no more I that do it, but ſin that dwelleth in me; for I know <hi>in me,</hi> (that is in my fleſh) <hi>dwelleth no good thing;</hi> for to <hi>will is preſent with me;</hi> but <hi>how to perform that which is good I know not;</hi> for <hi>the good that I would, I do not;</hi> but <hi>the evil which I would not, that do I;</hi> I find then a Law, that <hi>when I would do good, evil is preſent with me;</hi> for I delight in the Law of God after the inward man: <hi>but I ſee another Law in my members,</hi> warring againſt the Law of my mind, <hi>and bringing me into capti<g ref="char:EOLhyphen"/>vity to the Law of ſin, which is in my members:</hi> Oh wretched man that I am! <hi>who ſhall deliver me from this body of death?</hi>
+               </p>
+               <p>
+                  <hi>Queſt.</hi> In Truth this is an emi<g ref="char:EOLhyphen"/>nent experience, in this eminent Apoſtle, writ for our inſtruction:
+<pb n="78" facs="tcp:41426:57"/>but what more expreſs Scriptures have you?</p>
+               <p>
+                  <hi>Anſw. Eccl.</hi> 7.20. For <hi>there is not a juſt man upon the earth, that doth good, and ſinneth not.</hi>
+               </p>
+               <p>1 <hi>John</hi> 8.10. If <hi>we ſay we have no ſin,</hi> we deceive our ſelves, <hi>and the truth is not in us; If we ſay we have not ſinned, we</hi> make him a ly<g ref="char:EOLhyphen"/>ar, and <hi>the truth is not in us.</hi>
+               </p>
+               <p>2 <hi>Cor.</hi> 3.5. <hi>We are not ſufficient to think any thing</hi> as of our ſelves. <hi>Pſal.</hi> 14.3.2. Enter not into Judge<g ref="char:EOLhyphen"/>ment with thy ſervant, for <hi>in thy ſight ſhall no man living be juſti<g ref="char:EOLhyphen"/>fied.</hi>
+               </p>
+               <p>
+                  <hi>Eſay</hi> 64.6. We have <hi>all</hi> been <hi>as an unclean thing, and all our righteouſneſs is as filthy rags.</hi>
+               </p>
+               <p>
+                  <hi>Queſt.</hi> Indeed this makes little for the poſſibility of keeping the Law of God: but yet more, are not theſe laws broken by us, ere we come unto act? and if ſo, there is yet further impoſſibility.</p>
+               <p>
+                  <hi>Anſw. Mat.</hi> 5.28. I ſay unto
+<pb n="79" facs="tcp:41426:57"/>you, <hi>whoſoever looketh after a wo<g ref="char:EOLhyphen"/>man, to luſt after her, hath commit<g ref="char:EOLhyphen"/>ted Adultery with her already</hi> in his heart.</p>
+               <p>
+                  <hi>Prov.</hi> 20.9. <hi>Who can ſay, I have made my heart clean, I am pure from my ſin?</hi>
+               </p>
+               <p>
+                  <hi>Queſt.</hi> Here is ſin proved effectu<g ref="char:EOLhyphen"/>ally to be in all, even the beſt men, omitting good, committing evil; yea, and againſt their en<g ref="char:EOLhyphen"/>deavours and deſires, and ſin in thought; but what is this ſin which the beſt men do, and cannot but do? is it not the breaking, tranſ<g ref="char:EOLhyphen"/>greſſing, or not keeping the Com<g ref="char:EOLhyphen"/>mandments of God?</p>
+               <p>
+                  <hi>Anſw.</hi> 1 <hi>John</hi> 3. <hi>Whoſoever com<g ref="char:EOLhyphen"/>mitteth ſin, tranſgreſſeth</hi> alſo <hi>the Law;</hi> for <hi>ſin is the tranſgreſſion of the Law.</hi>
+               </p>
+               <p>
+                  <hi>Queſt.</hi> But ſuppoſe a man ex<g ref="char:EOLhyphen"/>actly obſerve and do all the Law: ſome few points, nay, ore breach in his time onely excepted; doth not that intitle him to the guilt of
+<pb n="80" facs="tcp:41426:58"/>all? ſo that he that keeps not all and every one, keeps none of the Commandments?</p>
+               <p>
+                  <hi>Anſw. Iames</hi> 2.10. For <hi>whoſo<g ref="char:EOLhyphen"/>ever ſhall keep the whole Law, and yet offend in one point, is guilty of all.</hi>
+               </p>
+               <p>
+                  <hi>Queſt.</hi> If this be our poſſibility to keep the Commandements, the Lord be merciful to me a ſinner; but yet the Scriptures ſpeak of keeping the Commandements of God, doing the will of God, hear<g ref="char:EOLhyphen"/>ing and doing, to which bleſſed<g ref="char:EOLhyphen"/>neſs is annexed: is there not there<g ref="char:EOLhyphen"/>fore a new obedience required of, and practiſed by the Saints, accor<g ref="char:EOLhyphen"/>ding to the tenour of ſuch Scrip<g ref="char:EOLhyphen"/>ture, which though it be not perfection, yet is accounted to them as perfection, and hath bleſ<g ref="char:EOLhyphen"/>ſedneſs intailed to it; That obe<g ref="char:EOLhyphen"/>bience centring on theſe two Ba<g ref="char:EOLhyphen"/>ſes Sincerity and Faith.</p>
+               <p>
+                  <hi>Anſw.</hi> Walk before me, and be perfect, <hi>&amp;c.</hi> upright, ſeat
+<pb n="81" facs="tcp:41426:58"/>
+                  <hi>Pſal.</hi> 1.1, 2. <hi>Bleſſed is the man that walketh not in the Counſel of the ungodly,</hi> nor ſtandeth in the way of ſinners, nor ſitteth in the ſeat of the ſcornful; <hi>but his de<g ref="char:EOLhyphen"/>light is in Law of the Lord.</hi>
+               </p>
+               <p>
+                  <hi>Gal.</hi> 3.21, 22. If there had been a Law given which could have given life, ſurely righteouſ<g ref="char:EOLhyphen"/>neſs ſhould have been by the Law; but the Scripture hath con<g ref="char:EOLhyphen"/>cluded all under ſin; that <hi>the pro<g ref="char:EOLhyphen"/>miſe, by the faith of Jeſus Chriſt</hi> ſhould be <hi>given to them which be<g ref="char:EOLhyphen"/>lieve.</hi>
+               </p>
+               <p>
+                  <hi>Queſt.</hi> But <hi>David</hi> ſaid of himſelf he had keep the ways of the Lord; did he mean perfectly? How could that be, ſince he is recorded (a fit example alledged by <hi>Biddle</hi>) both an Adulterer and a Murde<g ref="char:EOLhyphen"/>rer? what can be then meant by his keeping, but his ſincerity? is not that his righteouſneſs, clea<g ref="char:EOLhyphen"/>neſs of hands, and his keeping the ways of God? namely, his
+<pb n="82" facs="tcp:41426:59"/>not wickedly departing from God, and his being upright be<g ref="char:EOLhyphen"/>fore him? quote the very words already by <hi>Biddle,</hi> (for which light we thank God, not <hi>Biddle</hi>) to the contrary end.</p>
+               <p>
+                  <hi>Pſal.</hi> 18.20. <hi>to</hi> 24. The Lord re<g ref="char:EOLhyphen"/>warded me according to <hi>my righteouſneſs:</hi> according to <hi>the cleanneſs of my hands</hi> hath he re<g ref="char:EOLhyphen"/>compenced me; for <hi>I have kept the wayes of the Lord, and have not wickedly departed from my God;</hi> for all his judgements were before me, and I did not put away his Sta<g ref="char:EOLhyphen"/>tutes from me; <hi>I was alſo upright before him,</hi> and I kept my ſelf from mine iniquity; therefore hath the Lord recompenced me according to <hi>my righteouſneſs,</hi> according to <hi>the cleanneſs of my hands</hi> in his ey<g ref="char:EOLhyphen"/>ſight.</p>
+               <p>
+                  <hi>Queſt.</hi> What ſaith <hi>Paul,</hi> whom before we find could not keep the commandments, yet in Gods ſight was accounted perfect; but how?</p>
+               <pb n="83" facs="tcp:41426:59"/>
+               <p>Anſw. <hi>Phil.</hi> 3.7. That I might be found <hi>in him, not having mine own righteouſneſs</hi> which is of the Law, but <hi>that which is of the faith of Chriſt.</hi>
+               </p>
+               <p>
+                  <hi>Queſt.</hi> That the Lord Jeſus himſelf did reſpect, and the Saints may, the recompence of reward, is not denyed by us:—which is war<g ref="char:EOLhyphen"/>ranted by thoſe Scriptures that tell us, by wel-doing we ſhould ſeek for Honour, Glory and Im<g ref="char:EOLhyphen"/>mortality: we ſhould look for the bleſſed hope: But how is this to be looked on as due unto us? <hi>ex debito, vel ex congruo?</hi> for our do<g ref="char:EOLhyphen"/>ing, or for our ſuffering? or ra<g ref="char:EOLhyphen"/>ther to the grace of God which pleaſeth ſo to reward us? in ſhort, is the reward of merit or of grace?</p>
+               <p>Anſw. <hi>Luke</hi> 17.7. to the 10. but which of you having a ſervant plowing, or feeding Cattle, will ſay unto him by and by, when he is come from the field, go and ſit down to meat, and will not ra<g ref="char:EOLhyphen"/>ther
+<pb n="84" facs="tcp:41426:60"/>ſay unto him, Make ready wherewith I may ſup, and gird thy ſelf, and ſerve me till I have eaten and drunken, and afterward thou ſhalt eat and drink <hi>doth he thank that ſervant, becauſe he did thoſe things that were commanded him? I trow not; ſo likewiſe you when you have done all thoſe things com<g ref="char:EOLhyphen"/>manded you, ſay we are unprofi<g ref="char:EOLhyphen"/>table ſervants, we have done that which was our duty to do.</hi>
+               </p>
+               <p>Epheſ. 2 8.9. <hi>By grace are ye ſaved through faith,</hi> and that <hi>not of your ſelves, its the gift of God: not of works</hi> leaſt any man ſhould boaſt.</p>
+               <p>
+                  <hi>Queſt.</hi> The Scripture tels us, we are choſen to be holy and un<g ref="char:EOLhyphen"/>blameable: That Chriſt gave him<g ref="char:EOLhyphen"/>ſelf for the Church, to preſent to himſelf a glorious Church not ha<g ref="char:EOLhyphen"/>ving ſpot or wrinkle, or any ſuch thing; but that it ſhould be holy and without blemiſh. 2. That the gifts of Chriſt were for the pro<g ref="char:EOLhyphen"/>tecting of the Saints: we are ex<g ref="char:EOLhyphen"/>horted
+<pb n="85" facs="tcp:41426:60"/>to be perfect; prayed for, that we may ſtand perfect and compleat in all the will of God; and that our whole ſpirit, ſoul and body be preſerved blameleſs unto the coming of our Lord Jeſus Chriſt: and we have it recorded, that <hi>Noah</hi> was a juſt man, and perfect in his generation; That <hi>Zacharias</hi> and his wife <hi>Elizabeth</hi> were both righteous before God, walking in all the commandments of the Lord blameleſs: if theſe and ſuch like be intended of perfection compleat, is it not in reſpect to the imputation of Chriſts Righteouſ<g ref="char:EOLhyphen"/>neſs and perfection to us; not of our own righteouſneſs or perfecti<g ref="char:EOLhyphen"/>on in us?</p>
+               <p>Anſw. I deſire to <hi>be found in him, not having my own Righteouſ<g ref="char:EOLhyphen"/>neſs.</hi> Phil. 3.9.</p>
+               <p>
+                  <hi>Queſt.</hi> But rather is not the ſcope of thoſe Scriptures, truly to preſs us to aim at perfection and have it as a rule in our eye? nay
+<pb n="86" facs="tcp:41426:61"/>doth not the Apoſtle <hi>Paul</hi> preſs ſuch as he cals already perfect, at the ſame time to preſs on to perfection, as not having yet attained perfection, though called perfect? let us hear himſelf ſpeak of himſelf and others.</p>
+               <p>Anſw. <hi>Phil.</hi> 3.11, 12, 13, 14, 15. If by any means I might attain unto the reſurrection of the dead; not as though I <hi>had already attained, or were already perfect;</hi> But <hi>I follow after, If I may</hi> appre<g ref="char:EOLhyphen"/>hend that for which I am appre<g ref="char:EOLhyphen"/>hended of Chriſt Jeſus; Brethren, <hi>I count not my ſelf to have appre<g ref="char:EOLhyphen"/>hended; But</hi> this one thing I do, <hi>forgetting thoſe things which are behind, and reaching forth to thoſe things which are before, I preſs to<g ref="char:EOLhyphen"/>wards the mark,</hi> for the price of the high calling of God in Chriſt Jeſus; let us therefore, <hi>as many as be perfect, be thus minded.</hi>
+               </p>
+               <p>
+                  <hi>Queſt.</hi> When <hi>Paul</hi> was at his higheſt pitch, through the abun<g ref="char:EOLhyphen"/>dance
+<pb n="87" facs="tcp:41426:61"/>of Revelations, yet was he not then far from ſuch an eſtate as perfection in degree? what ſaith he himſelf?</p>
+               <p>Anſw. 2 Cor. 12. Leſt I ſhould be exalted above meaſure, through the abundance of Revelations, <hi>there was given unto me a prick in the fleſh.</hi>
+               </p>
+               <p>
+                  <hi>Quest.</hi> But though the degree of perfection were not attained or attainable, yet there is ſincerity, which is perfection; there is an univerſal, general obedience to every part of the Law of God, which is perfection too in Gods ac<g ref="char:EOLhyphen"/>count; ſo much theſe Scriptures compared with others declare; but can they prove the compleat pitch and degree of perfection? beſides what is already named, what ſay other Scriptures?</p>
+               <p>Anſw. 1 <hi>Cor.</hi> 13.9, 10. For <hi>we know in part,</hi> &amp; <hi>we propheſie in part.</hi>
+               </p>
+               <p>Pſal. 19.12, 13. <hi>Who can under<g ref="char:EOLhyphen"/>ſtand his Errors?</hi> cleanſe thou me
+<pb n="88" facs="tcp:41426:62"/>from my <hi>ſecret ſins;</hi> keep back thy ſervant alſo from <hi>preſumptuous ſins.</hi>
+               </p>
+               <p>
+                  <hi>Mat.</hi> 6. 12. Forgive us <hi>our Treſpaſſes.</hi>
+               </p>
+               <p>
+                  <hi>Mark</hi> 9.24. Lord, <hi>I believe, help</hi> thou <hi>my unbelief.</hi>
+               </p>
+               <p>Col. 3.5. <hi>Mortifie</hi> therefore your <hi>members which are upon the earth.</hi>
+               </p>
+               <p>Pſal. 51.4. <hi>My ſin is ever be<g ref="char:EOLhyphen"/>fore me.</hi>
+               </p>
+               <p>
+                  <hi>Queſt.</hi> Touching good works enough hath been ſaid in the for<g ref="char:EOLhyphen"/>mer chapter, to evince that they have nothing to do in the buſineſs of Juſtification, ſo as that God ſhould juſtifie us for, or becauſe of our works: yet inaſmuch as here its again inſiſted on as the cauſe of Juſtification; repeat therefore the ſame Scriptures here urged, which prove our Juſtification to be not of works but of grace.</p>
+               <p>Anſw. <hi>Eph.</hi> 8, 9. 10. <hi>By grace are ye ſaved</hi> through faith: and that not of your ſelves, it is the
+<pb n="89" facs="tcp:41426:62"/>gift of God, not of works:</p>
+               <p>
+                  <hi>Rom.</hi> 11.5. And <hi>if by grace, its no more of works, otherwiſe grace is no more grace.</hi>
+               </p>
+               <p>
+                  <hi>Queſt.</hi> But good works are ſo to ſalvation, as is the Antece<g ref="char:EOLhyphen"/>dent to the Conſequent: to ſay though we may not expect to be ſaved for them, yet we cannot expect to be ſaved without them; what therefore the Scri<g ref="char:EOLhyphen"/>pture makes the proper end of good works, are they not eſpeci<g ref="char:EOLhyphen"/>ally theſe, and ſuch like as theſe? obedience to God, the honour of our profeſsion; the glory of God, the proof, evidence and juſtification of our faith, a tryal to the ſincerity of our profeſsion, a ſign of our ſtate in grace, ac<g ref="char:EOLhyphen"/>ceptance with God, and from the whole, to put to ſilence evil men, and be a comfortable ground of peace in our own ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uls. What ſays the Scriptures to each of theſe?</p>
+               <pb n="90" facs="tcp:41426:63"/>
+               <p>Anſw. 1 <hi>Theſ.</hi> 4.3. This is <hi>the will of God,</hi> even your <hi>Sanctifica<g ref="char:EOLhyphen"/>tion.</hi>
+               </p>
+               <p>
+                  <hi>Titus</hi> 3.8. This is a faithful ſaying, and theſe things I will that thou affirm conſtantly, <hi>That they which have believed in God may be careful to maintain good works:</hi> Theſe <hi>things are good and profitable unto men.</hi>
+               </p>
+               <p>
+                  <hi>Eph.</hi> 4.1. I therefore the Priſo<g ref="char:EOLhyphen"/>ner of the Lord beſeech you, that you <hi>walk worthy of the vocation</hi> whereunto ye are called.</p>
+               <p>Mat. 5.16. <hi>Let your light ſo ſhine before men, that they may ſee your good works, and glorifie your father</hi> which is in heaven.</p>
+               <p>
+                  <hi>James</hi> 2.14, 15, 16, 17, 18, 19, 20, 21, 24, 25. What doth it pro<g ref="char:EOLhyphen"/>fit my brethren though a man ſay he hath faith, and have not works? will faith ſave him? if a brother be naked and deſtitute of daily food, and one of you ſay unto them, Depart in peace, be you warmed
+<pb n="91" facs="tcp:41426:63"/>and filled; notwithſtanding you give them not thoſe things that are needful to the body: what doth it profit? even ſo <hi>faith if it hath not works, is dead.</hi> Was not <hi>Abraham</hi> our father juſtified by works? Thou believeſt that there is one God: thou doſt well; the Devils alſo believe and tremble; but wilt thou know O vain man that <hi>faith without works is dead?</hi> was not <hi>A<g ref="char:EOLhyphen"/>braham</hi> our father juſtified by works, when he had offered his ſon <hi>Iſaac</hi> upon the altar? <hi>ſeeſt thou how faith wrought with his works? and by works was faith made perfect.</hi>
+               </p>
+               <p>1 John 3.7, 10. Little children, let no man deceive you; <hi>he that doth righteouſneſs, is righteous,</hi> even as he is righteous, <hi>in this the chil<g ref="char:EOLhyphen"/>dren of God are manifeſt, and the Children of the devil:</hi> whoſoever doth not righteouſneſs, is not of God.</p>
+               <p>1 <hi>Iohn</hi> 2.29. If ye know that he is righteous, <hi>ye know that every
+<pb n="92" facs="tcp:41426:64"/>one which doth righteouſneſs is born of him.</hi>
+               </p>
+               <p>
+                  <hi>Acts</hi> 10.35. He that feareth him, and <hi>worketh righteouſneſs, is accepted</hi> of him.</p>
+               <p>
+                  <hi>Heb.</hi> 13.18. Pray for us; for we truſt we have a good conſci<g ref="char:EOLhyphen"/>ence in all things <hi>willing to live honeſtly.</hi>
+               </p>
+               <p>1 <hi>Pet.</hi> 3.16. Having a good conſcience, that whereas they ſpeak evil of you, as ev l doers, <hi>they may be aſhamed that falſly ac<g ref="char:EOLhyphen"/>cuſe your good converſation in Chriſt.</hi>
+               </p>
+               <p>1 <hi>Pet.</hi> 2.15. For ſo is the will of God, <hi>that with well doing you may put to ſilence the ignorance of fooliſh men.</hi>
+               </p>
+               <p>
+                  <hi>Acts</hi> 23.1. And <hi>Paul</hi> earneſt<g ref="char:EOLhyphen"/>ly beholding the Council, ſaid, Men and brethren, <hi>I have lived in all good conſcience towards God,</hi> un<g ref="char:EOLhyphen"/>till <hi>this day.</hi>
+               </p>
+               <p>
+                  <hi>Queſt.</hi> We are now come to that grand Queſtion, touching
+<pb n="93" facs="tcp:41426:64"/>the perſeverance of the Saints wherein we have many <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>criptures brought, telling us that the righ<g ref="char:EOLhyphen"/>teous may turn away from his righteouſneſs, and ſin unto death, and that for his iniquity which he hath committed he ſhall dye.</p>
+               <p>
+                  <hi>Eze.</hi> 18.24.33.13. Is there any denies a temporal death ac<g ref="char:EOLhyphen"/>cording to theſe Scriptures? have ye not other examples agreeing with them that ſickneſs and death are inflicted on good men, under the Goſpel for their miſcarriages?</p>
+               <p>
+                  <hi>Anſw.</hi> 1 <hi>Cor.</hi> 13.—<hi>For this cauſe ſome of you are ſick, and ſome are fallen aſleep.</hi>
+               </p>
+               <p>
+                  <hi>Queſt.</hi> But do theſe or other Scriptures following prove that doctrine to be falſe, Once in Chriſt and ever in Chriſt? as we have ta<g ref="char:EOLhyphen"/>ken for granted in the queſtion of <hi>Biddle:</hi> The Scriptures are ſuch as tell ſome ſhall depart from the faith; ſome have made Shipwrack of faith, caſt off their faith erred
+<pb n="94" facs="tcp:41426:65"/>from the faith; overthrown the faith of ſome; ſeveral exhortati<g ref="char:EOLhyphen"/>ons in Scripture, that we take heed we depart not from the living God; left we be hardned tho<g ref="char:EOLhyphen"/>rough the deceitfulneſs of ſin; leſt any man fall after the exam<g ref="char:EOLhyphen"/>ple of unbelief; leſt being led away by the error of the wicked, fall from their own ſtedfaſtneſs; leaſt any man fail of the grace of God; leſt by any means the Tempter tempts us, and the Apo<g ref="char:EOLhyphen"/>ſtles labour be in vain; leſt we deſtroy our weak brother by our knowledge; and the Apoſtle, leſt when he preach unto others, him<g ref="char:EOLhyphen"/>ſelf ſhould be caſt away: ſeverall other poſitive Scriptures ſpeaking, ſuch Saints as were enlightned, have taſted the heavenly gift, made partakers of the holy Ghoſt, taſted the good word of God, and the powers of the world to come; if they fall away; that ſome are curſed children, having forſaken
+<pb n="95" facs="tcp:41426:65"/>the right way, and have gone aſtray: That ſome after they have eſcaped the pollutions of the world, are again entangled there<g ref="char:EOLhyphen"/>in, and overcome, who after they have known the way of righte<g ref="char:EOLhyphen"/>ouſneſs, turn from the holy Com<g ref="char:EOLhyphen"/>mandment delivered to them; and to conclude, if a man abide not in Chriſt, he is caſt forth and wi<g ref="char:EOLhyphen"/>thers; every branch in him that beareth not fruit he taketh away. Do not ſome of them prove that hypocrites may go far in the bu<g ref="char:EOLhyphen"/>ſineſs of Religion, and have much light, much experience, yea faith, (though temporary) and yet fall away? do not others of them, as the laſt, prove, that ſuch men may have the profeſſion of Chriſt and be members of the viſible Church of Chriſt, and ſo ſaid to be in him; yet being ſtrange from the work of regeneration, and implantati<g ref="char:EOLhyphen"/>on, in the end be caſt out? But notwithſtanding all this; do any
+<pb n="96" facs="tcp:41426:66"/>of theſe Scriptures, or all of them prove, that a real member of Chriſts myſtical body, or a true Believer, may fall from that ſtate, lofe his faith, and finally periſh? is not this contrary to the whole tenure of the Goſpel? what do the Scri tures ſpeak? do they not tell us that ſuch as thus fall, were never true Believers? &amp; that many did thus believe, whom our Lord himſelf did not account to be true Believers? 2. Hath not God in his word plentifully promiſed that true believers ſhould perſevere and be preſervd from total and fi<g ref="char:EOLhyphen"/>nal apoſtacy? and if ſo, doth not the Scripture tell us, God cannot lye?</p>
+               <p>3. Doth not the Scripture tell us, that God doth keep true be<g ref="char:EOLhyphen"/>lievers, that they cannot thus final<g ref="char:EOLhyphen"/>ly fall?</p>
+               <p>(4.) Doth not the Scripture tell us, that ſuch as are true belie<g ref="char:EOLhyphen"/>vers are elected of God, and can<g ref="char:EOLhyphen"/>not
+<pb n="97" facs="tcp:41426:66"/>thus fall, but have already attained the inheritance?</p>
+               <p>(5.) Doth not the Scripture tell us, that Chriſt prayeth the Fa<g ref="char:EOLhyphen"/>ther for the perſeverance of the Saints? and doth not Chriſt him<g ref="char:EOLhyphen"/>ſelf ſay, the Father hath always heard him?</p>
+               <p>6. Do not the Saints and true Believers daily pray for their per<g ref="char:EOLhyphen"/>ſeverance? and doth not the Scrip<g ref="char:EOLhyphen"/>ture tell them what ever neceſſary thing they ask in the name of Chriſt, ſhall be obtained?</p>
+               <p>7. Are not true believers thus kept by Jeſus Chriſt in the faith, ſo as they can never totally and finally loſe their faith?</p>
+               <p>8. Are not ſuch ſealed by the holy Spirit in their hearts, that they ſhall never fall?</p>
+               <p>(9.) Are not Believers compa<g ref="char:EOLhyphen"/>red to a Tree that withers not: a houſe that is builded on a Rock and fals not: ſeed ſown in good ground, which bringeth forth its perfect crop?</p>
+               <pb n="98" facs="tcp:41426:67"/>
+               <p>10. Are not ſuch Believers ſo dead to ſin, that it cannot again have dominion over them? and are they not ſo born of God, as the ſeed of God abides in them: that they cannot ſo ſin again as do other men? yea, are not ſuch belie<g ref="char:EOLhyphen"/>vers ſo endued, as that they ſhall overcome all their enemies, and cannot be overcome? In ſhort, if theſe particulars are the Tenour of Scripture, and the truth as it is in Jeſus, ſhall not this truth of the Saints everlaſting perſeverance, be worthy of all acceptation to the worlds ends? ſure it will, let us therefore hear what the Scriptures ſpeaks to each of theſe, and firſt of the firſt.</p>
+               <p>Anſw. 1. — <hi>John</hi> 8.31. Then ſaid Ieſus to thoſe <hi>Jews that be<g ref="char:EOLhyphen"/>lieved on him, If ye continue in my word, then are ye my Diſciples in<g ref="char:EOLhyphen"/>deed.</hi>
+               </p>
+               <p>1 <hi>John</hi> 2.19. They <hi>went out from us, becauſe they were not of
+<pb n="99" facs="tcp:41426:67"/>us:</hi> for <hi>if they had been of us,</hi> they <hi>would have no doubt continued with us, but they went out that they might be made manifeſt they were not all of us.</hi>
+               </p>
+               <p>Heb. 3.6.14. <hi>Whoſe houſe are we, if we hold faſt</hi> the confidence and the rejoycing of the hope firm unto the end.</p>
+               <p>Luke 8.18. <hi>Whoſoever hath not, from him ſhall be taken what he ſeems to have.</hi>
+               </p>
+               <p>2 <hi>John</hi> 23, 24. Now when he was at <hi>Jeruſalem,</hi> at the Paſſover, in the feaſt day, <hi>many believed in his name,</hi> when they ſaw the mi<g ref="char:EOLhyphen"/>racles that he did; <hi>But Ieſus did not commiit himſelf unto them, be<g ref="char:EOLhyphen"/>cauſe he knew all men,</hi> and needed not that any ſhould teſtifie of man, for <hi>he knew what was in man.</hi>
+               </p>
+               <p>
+                  <note n="2" place="margin">Gods pro<g ref="char:EOLhyphen"/>miſe.</note> 2.—<hi>Jer.</hi> 32,38, 40. They ſhall be <hi>my</hi> people, and I will be their God; and I will make <hi>an everlaſt<g ref="char:EOLhyphen"/>ing Covenant</hi> with them, that <hi>I
+<pb n="100" facs="tcp:41426:68"/>will never turn a may</hi> from them to do them good, but I will put my fear into their hearts that <hi>they ſhall not depart from me.</hi>
+               </p>
+               <p>
+                  <hi>Eſa.</hi> 54.10. For the Mountains ſhall remove, and the Hills ſhall fall down, <hi>but my mercy ſhall not depart</hi> from thee; <hi>neither ſhall the covenant of my peace fall away</hi> ſaith the Lord, that hath compaſſion on thee.</p>
+               <p>
+                  <hi>Iſa.</hi> 59.10. And <hi>I will make this my Covenant with them</hi> ſaith the Lord, <hi>My ſpirit that is upon thee, and my words which I have put in thy mouth, ſhal not depart</hi> out of thy mouth, nor out of the mouth of thy ſeed, nor out of the mouth of the ſeed of thy ſeed, ſaith the Lord, <hi>from henceforth even for ever.</hi>
+               </p>
+               <p>
+                  <hi>Hoſea.</hi> 2.19. In that day, <hi>I will marry thee unto me for euer.</hi>
+               </p>
+               <p>al. 125.1. <hi>They that truſt in the Lord ſhall be as Mount Sion, which cannot be removed, but abi<g ref="char:EOLhyphen"/>deth for ever.</hi>
+                  <pb n="101" facs="tcp:41426:68"/>
+                  <hi>Iohn.</hi> 4.14. Whoſoever drinketh of this water that I ſhall give him, <hi>ſhall never be more athirſt:</hi> but the water thar I ſhall give him, ſhall be in him a well of water, <hi>that ſprings up to everlaſting life.</hi>
+               </p>
+               <p>
+                  <hi>Iohn</hi> 6 39. And <hi>this is the Fa<g ref="char:EOLhyphen"/>thers will,</hi> which hath ſent me, that <hi>of all which he hath given me, I ſhould loſe nothing,</hi> but ſhould raiſe it up again at the laſt day.</p>
+               <p>Iohn 10.27, 28, 29, <hi>My ſheep</hi> hear my voice, and I know them, and they follow me, and I give un<g ref="char:EOLhyphen"/>to them eternal life, and <hi>they ſhall never periſh, neither ſhall any pluck them out of my hand?</hi> My Father that gave them me is greater then all, and <hi>none is able to take them out of my Fathers hand.</hi>
+               </p>
+               <p>
+                  <hi>Mat.</hi> 16.18. Upon this rock I wil build <hi>my Church, and the gates hell ſhall not overcome it.</hi>
+               </p>
+               <p>
+                  <hi>Ioh.</hi> 14.16. I will ask the father, and he ſhall give you another <hi>com<g ref="char:EOLhyphen"/>forter,</hi> that <hi>he may abide with you for ever.</hi>
+               </p>
+               <pb n="102" facs="tcp:41426:69"/>
+               <p>Titus 1.1,2. <hi>This hope of eter<g ref="char:EOLhyphen"/>nal life, God that cannot lye hath promiſed before the world be<g ref="char:EOLhyphen"/>gan.</hi>
+               </p>
+               <p>
+                  <note n="3" place="margin">God keeps them.</note>3.— 1 <hi>Cor.</hi> 1.7, 8. Waiting for the appearing of <hi>our Lord Ieſus Chriſt,</hi> who <hi>ſhall</hi> alſo <hi>confirm you unto the end,</hi> that ye may be blameleſs in the day of our Lord Ieſus Chriſt; God is faithful.</p>
+               <p>1 Cor. 10 13. <hi>God is faitful, and will not ſuffer you to be tempted above what ye are able;</hi> but will give with the temptation, that ye may be able to bear it.</p>
+               <p>1 <hi>Theſ.</hi> 5.23, 24. Now the very God of peace ſanctifie you throughout; and I pray God, that your whole ſpirit, ſoul and body may be kept blameleſs unto the coming of our Lord Ieſus Chriſt: <hi>faithful is he that calleth you, who will alſo do it.</hi>
+               </p>
+               <p>2 Theſ. 3.3. <hi>The Lord</hi> is faithful
+<pb n="103" facs="tcp:41426:69"/>which <hi>will ſtabliſh you, and keep you from evil.</hi>
+               </p>
+               <p>
+                  <hi>Phil.</hi> 1.6. And I am perſwa<g ref="char:EOLhyphen"/>of this thing that <hi>he that haeh be<g ref="char:EOLhyphen"/>gun this good work in you, will per<g ref="char:EOLhyphen"/>form it until the day of Ieſus Chriſt.</hi>
+               </p>
+               <p>
+                  <note n="4" place="margin">The Elect can<g ref="char:EOLhyphen"/>not fall.</note>4.—Mat. 24.24. For there ſhall ariſe falſe Chriſts, and falſe Prophets, and ſhall ſhew great ſigns and wonders; ſo that <hi>(if it were poſsible) they ſhould deceive the very Elect.</hi>
+               </p>
+               <p>
+                  <hi>Rom.</hi> 8.29,30. For thoſe <hi>whom he knew before,</hi> thoſe alſo <hi>he pre<g ref="char:EOLhyphen"/>deſtinated;</hi> moreover <hi>whom he pre<g ref="char:EOLhyphen"/>deſtinated,</hi> them alſo <hi>he called: and whom he called,</hi> them alſo <hi>he juſtifi<g ref="char:EOLhyphen"/>ed; and whom he juſtified, them he alſo glorified.</hi>
+               </p>
+               <p>Rom. 11.1. <hi>God hath not caſt away his people, whom he knew be<g ref="char:EOLhyphen"/>fore verſ.</hi> 7. what then? Iſrael hath not obtained that he ſought, but <hi>the election have obtained it,</hi> and the reſt have been hardned.</p>
+               <pb n="104" facs="tcp:41426:70"/>
+               <p>
+                  <note n="5" place="margin">Chriſt prays, and is always heard.</note>5.—<hi>Luke</hi> 21.31, 32. And the Lord ſaid, <hi>Simon, Si<g ref="char:EOLhyphen"/>mon,</hi> behold Satan hath deſired to winnow thee as wheat: <hi>but I have prayed for thee that thy faith fail not.</hi>
+               </p>
+               <p>John 17.15, 20. <hi>I pray not</hi> that thou ſhouldeſt take them out of the world, but <hi>that thou keep them from evil.</hi> I pray not for theſe alone, <hi>but for them which ſhall believe in me through their word.</hi>
+               </p>
+               <p>
+                  <hi>Rom.</hi> 8.34. Who ſhall con<g ref="char:EOLhyphen"/>demn? <hi>it is Chriſt</hi> which is dead, yea rather which is riſen again, <hi>who is alſo at the right hand of God, and maketh requeſt for us; who ſhall ſeparate us from the love of Chriſt?</hi>
+               </p>
+               <p>John 11.41, 42. <hi>And Ieſus</hi> lift up his eyes, <hi>and ſaid, Father,</hi> I thank thee becauſe <hi>thou haſt heard me, I know that thou heareſt me al<g ref="char:EOLhyphen"/>ways.</hi>
+               </p>
+               <pb n="105" facs="tcp:41426:70"/>
+               <p>
+                  <note n="6" place="margin">The Saints pray and ſhall obtaen.</note>6.— Mat. 6. 13. <hi>Lead us not into temptation, but de<g ref="char:EOLhyphen"/>liver us from evil.</hi>
+               </p>
+               <p>1 John 5.14. And <hi>this is that aſſurance that we have in him, that if we ask any thing according to his will, he heareth us.</hi>
+               </p>
+               <p>
+                  <note n="7" place="margin">6 Saints are preſerved in the faith.</note>7.—<hi>John</hi> 6.37.38. All that the Father giveth me ſhall come to me, and him that cometh to me; I caſt not away.</p>
+               <p>
+                  <hi>This is the Fathers will</hi> which hath ſent me, <hi>that of all which he hath given me, I ſhould loſe no<g ref="char:EOLhyphen"/>thing,</hi> but ſhould raiſe it up again at the laſt day.</p>
+               <p>Chap. 10.27, 28. <hi>My ſheep</hi> hear my voice, and I know them, and they follow me, and I give unto them eternal life; and <hi>they ſhall not periſh, neither ſhall any pluck them out of my hand.</hi>
+               </p>
+               <p>John 17.12. <hi>Thoſe</hi> that thou gaveſt me, <hi>have I kept, and nore of
+<pb n="106" facs="tcp:41426:71"/>them is loſt: chap.</hi> 13.1. Foraſ<g ref="char:EOLhyphen"/>much as he loved his own which were in the world, <hi>unto the end</hi> he loved them.</p>
+               <p n="8">8.—2 <hi>Cor.</hi> 1.21. And it is <hi>God which eſtabliſheth us</hi> with you in Chriſt, and hath annointed us: who hath alſo <hi>ſealed us, and given the earneſt of the Spirit</hi> in our hearts.</p>
+               <p>
+                  <hi>Epheſ.</hi> 1.13, 14. In whom alſo ye have truſted, after that ye heard the word of truth, even the Goſpel of your Salvation, where<g ref="char:EOLhyphen"/>in alſo after that ye believed, ye were <hi>ſealed with the holy ſpirit</hi> of promiſe, <hi>which is the earneſt of our inheritance. Chap.</hi> 4.30. Grieve not the holy ſpirit of God, by whom <hi>ye are ſealed unto the day of Redem<g ref="char:EOLhyphen"/>ption.</hi>
+               </p>
+               <p>
+                  <hi>Pſal.</hi>
+                  <note place="margin">
+                     <hi>9.</hi> Compariſon of Believers in Scripture.</note> 1.3. For he ſhall be like <hi>a Tree planted</hi> by the Rivers of waters, that will bring forth her fruit in her due
+<pb n="107" facs="tcp:41426:71"/>ſeaſon, <hi>whoſe leaf ſhall not fade.</hi>
+               </p>
+               <p>Mat. 7, 24.25. I will liken him to <hi>a wiſe man, which hath builded his houſe on a rock.</hi>
+               </p>
+               <p>
+                  <hi>Luke</hi> 8.15 But that which fell on good ground, are they which with an honeſt and good heart, <hi>hear the word, and keep it,</hi> and bring forth fruit with patience.</p>
+               <p n="10">10.—<hi>Rom.</hi> 6.2 8,<note place="margin">
+                     <hi>10</hi> Saints dead to ſin.</note>9, 11. How ſhall we that are dead to ſin, live yet therein? wherefore if we be dead with Chriſt, we believe that we ſhall live alſo with him; knowing that Chriſt being raiſed from the dead, dyeth no more, death hath no more dominon over him: likewiſe think ye alſo that <hi>ye are dead to ſin, but are alive to to God in Chriſt Jeſus</hi> our Lord.</p>
+               <p>1 Iohn 3 9. Whoſoever is born of God, ſinneth not; for his ſeed remaineth in him, <hi>neither can he ſin,</hi> becauſe he is born of God.</p>
+               <p>
+                  <hi>Chap.</hi> 5,4. For <hi>all that is born
+<pb n="108" facs="tcp:41426:72"/>of God, overcometh</hi> this world.</p>
+               <p>
+                  <hi>Rom.</hi> 8.35.37. to the end. <hi>Who ſhall ſeparate us</hi> from the love of Chriſt? in all theſe things we are <hi>more then Conquerours</hi> through him that loved us; for I am per<g ref="char:EOLhyphen"/>ſwaded, that neither death nor life, nor Angels nor principalities, nor powers, <hi>nor things preſent, nor things to come, nor height, nor depth, nor any other creature ſhall be able to ſeparate us from the love of God</hi> which is in Chriſt Ieſus our Lord.</p>
+               <p>
+                  <hi>Queſt.</hi> Our Saviour tels his Diſciples, hitherto they had asked nothing in his name; was it be<g ref="char:EOLhyphen"/>cauſe they prayed God without a Mediator? without the name of Chriſt? nay ſure; but they had asked nothing, that is nothing compara<g ref="char:EOLhyphen"/>tively to what they might have asked, and God would give; was there at any time even be<g ref="char:EOLhyphen"/>fore Chriſts Incarnation, any ac<g ref="char:EOLhyphen"/>ceptance with the Father without
+<pb n="109" facs="tcp:41426:72"/>him? was not Chriſt the Centre of all thoſe types? Surely yes, the Scripture is full.</p>
+               <p>Let it ſuffice us here to hear one Scripture proving that Chriſt was to them before his coming in the fleſh as to us ſince, though more darkly; one Scripture proving that they did then pray the Father through his name, even before his incarnation; One Scripture that there is but one Mediatour for all men, whether them before, or us ſince his manifeſtation in the fleſh; let us hear them faithfully re<g ref="char:EOLhyphen"/>corded.</p>
+               <p>Anſw. 1 <hi>Cor.</hi> 10.4.3. More<g ref="char:EOLhyphen"/>over Brethren, I would not have you, ignorant how that all our Fa<g ref="char:EOLhyphen"/>thers were under the cloud, and all paſſed through the ſea; and <hi>did all eat the ſame ſpiritual meat;</hi> and did all <hi>drink the ſame ſpiritual drink (for they drank of that ſpiritual rock</hi> that followed them, and <hi>that rock was Chriſt</hi>)</p>
+               <pb n="110" facs="tcp:41426:73"/>
+               <p>
+                  <hi>Dan.</hi> 9.17. Now therefore <hi>oh our God, hear the prayer of thy ſer<g ref="char:EOLhyphen"/>vant,</hi> and his ſupplications; and cauſe thy face to ſhine upon thy ſanctuary that lieth waſte, <hi>for the Lords ſake.</hi>
+               </p>
+               <p>1 <hi>Tim.</hi> 2.5. For there is <hi>one God;</hi> and <hi>one Mediatour</hi> be<g ref="char:EOLhyphen"/>tween God and men, <hi>the man Chriſt Jeſus.</hi>
+               </p>
+            </div>
+            <div n="20 21" type="chapter">
+               <head>CHAP. XX, XXI.</head>
+               <p>
+                  <hi>Q<g ref="char:V">Ʋ</g>eſt.</hi> Its of great comfor to the Church indeed, that Chriſt her head, hath the Keys of hell and death; But hath not the Lord Jeſus committed to the Church the power of theſe keys, that the publike, regular, and due uſe thereof may according to the inſtitution of Chriſt, and Apoſtolical direction be had to the proper ends thereof, in each par<g ref="char:EOLhyphen"/>ticular Church and congregation of Chriſt under the Goſpel?</p>
+               <pb n="111" facs="tcp:41426:73"/>
+               <p>Anſw. Iohn 16.19. <hi>And I will give unto thee the Keys</hi> of the Kingdom of heaven; and <hi>whatſo<g ref="char:EOLhyphen"/>ever thou ſhalt bind on earth, ſhall be bound in heaven: and whatſoever thou ſhalt looſe</hi> on earth, <hi>ſhal be looſ<g ref="char:EOLhyphen"/>ed</hi> in heaven.</p>
+               <p>
+                  <hi>Iohn</hi> 20.23. Then Ieſus ſaid un<g ref="char:EOLhyphen"/>to them, Peace be unto you; as my Father ſent me, even ſo ſend I you: and when he ſaid this, he breathed on them, and ſaith to them, Receive ye the holy ghoſt. <hi>Whoſeſoever ſins ye remit, they are remitted unto</hi> them, and <hi>whoſe<g ref="char:EOLhyphen"/>ſoever ſins ye retain, they are re<g ref="char:EOLhyphen"/>tained.</hi>
+               </p>
+               <p>
+                  <hi>Mat.</hi> 18.15, 16, 17, 18. If thy brother treſpaſs againſt thee, go and tell him his fault betwixt him and thee alone; if he hear thee, thou haſt won thy brother; but if he hear thee not, take yet with thee one or two, that by the mouth of two or three witneſſes, every word may be confirmed; <hi>and if he wil not
+<pb n="112" facs="tcp:41426:74"/>vouchſafe to hear them, tell it to the Church; and if he refuſe to hear the Church alſo, let him be unto thee as an Heathen-man and a Pub<g ref="char:EOLhyphen"/>lican.</hi> verily <hi>I</hi> ſay unto you, <hi>what<g ref="char:EOLhyphen"/>ſoever ye bind on earth, ſhall be bound</hi> in heaven; and <hi>whatſoever ye looſe on</hi> earth, <hi>ſhall be looſed</hi> in heaven.</p>
+               <p>1 <hi>Cor.</hi> 1.4, 5. I verily as abſent in body, but preſent in ſpirit, have de<g ref="char:EOLhyphen"/>termined already as though I were preſent, that he that hath done this thing, when ye are gathered toge<g ref="char:EOLhyphen"/>ther, and my ſpirit in the name of our Lord Ieſus Chriſt, <hi>that ſuch one</hi> I ſay, <hi>by the power of our Lord Ie<g ref="char:EOLhyphen"/>ſus Chriſt be delivered unto Satan</hi> for the deſtruction of the fleſh, that the Spirit may be ſaved in the day of our Lord Ieſus. <hi>ver.</hi> 13. <hi>With ſuch a one, eat not; put away therefore from your ſelves that wicked perſon.</hi>
+               </p>
+               <p>
+                  <hi>Queſt.</hi> Touching Baptiſm, this is the end of this Chapter, to de<g ref="char:EOLhyphen"/>ſtroy
+<pb n="113" facs="tcp:41426:74"/>and overthrow the Ordi<g ref="char:EOLhyphen"/>nance and Inſtitution of water-Baptiſm, agreeing in this with ſuch as of late have appeared to that and other ſuch good ends; for its a body of hereſie we have to do with; no wonder therefore, if he takes every brother by the hand; But how is this done? firſt, by bringing before us ſuch Scriptures as tell us, That <hi>John</hi> indeed bap<g ref="char:EOLhyphen"/>tized with water, but he that came after him with the holy Ghoſt; do thoſe prove that water-baptiſm ceaſed with <hi>John?</hi> or that Chriſt did that which <hi>John</hi> could not do, namely, waſh us with his blood and Spirit? doth not the Scripture therefore call Baptiſm the waſhing of the new birth and the forgive<g ref="char:EOLhyphen"/>neſs of ſins?</p>
+               <p>Anſw. <hi>Tit.</hi> 3.5. According to his mercy he ſaved us, by the <hi>waſhing of the new birth,</hi> and renewing of the holy Ghoſt.</p>
+               <p>
+                  <hi>Acts</hi> 2.2.16 Ariſe and
+<pb n="114" facs="tcp:41426:75"/>
+                  <hi>be baptiſed and waſh away thy ſins.</hi>
+               </p>
+               <p>
+                  <hi>Queſt.</hi> No wonder indeed then, that <hi>John</hi> could not baptize as did Jeſus, whoſe ſhoe latchet he was not worthy to unlooſe: ſince it is not the outward baptiſm of water, but the blood of Chriſt that clean<g ref="char:EOLhyphen"/>ſeth us from all ſin: ſince it is true alſo we are baptized into Chriſts death; and it is not the putting away of the filth of the fleſh but the anſwer of a good conſcience towards God that ſaves us: theſe all proving baptiſm indeed to be a Sacrament and no more effectual then the Spirit makes it effectual, which it hath made inſtrumental: we confeſs it is not otherwiſe the thing ſignified, but muſt affirm it to be the ſign: what teſtimony therefore have you for the uſe of that ſign, namely, the uſe of wa<g ref="char:EOLhyphen"/>ter, in Scripture?</p>
+               <p>Anſw. <hi>Mat.</hi> 18.19. Go and teach all Nations, <hi>baptizing</hi> them
+<pb n="115" facs="tcp:41426:75"/>in the name of the Father, and of the Son, and of the holy Ghoſt.</p>
+               <p>
+                  <hi>Mark</hi> 16.16. He that ſhall believe and be baptized, ſhall be ſaved.</p>
+               <p>
+                  <hi>Acts</hi> 2.38.4.1. Then <hi>Peter</hi> ſaid, Amend your lives, and be <hi>baptized</hi> every one of you, in the name of Ieſus Chriſt; then they that gladly received his word were baptized; the ſame day were added to the Church 3000. ſouls.</p>
+               <p>Mat. 3.11. <hi>I baptize you with water</hi> to amendment of life.</p>
+               <p>
+                  <hi>Ioh.</hi> 1.31, 33. Therefore am I come <hi>baptizing with water: he that ſent me to baptize with water.</hi>
+               </p>
+               <p>
+                  <hi>Queſt.</hi> This indeed is our ſuffi<g ref="char:EOLhyphen"/>cient warrant from the ſignifican<g ref="char:EOLhyphen"/>cy of the word baptizing, and alſo from the expreſs addition of wa<g ref="char:EOLhyphen"/>ter, wherewith <hi>Iohn</hi> was ſent ex<g ref="char:EOLhyphen"/>preſly to baptize: only the efficacy of that ordinance was then, and is now acknowledged to be the work of Chriſt by his Spirit; but if they
+<pb n="116" facs="tcp:41426:76"/>ſhould thus ſay, This was indeed the baptiſm of <hi>Iohn,</hi> but the A<g ref="char:EOLhyphen"/>poſtles did not baptize, or if they did not ſo, what teſtimony there<g ref="char:EOLhyphen"/>fore have you, that the Apoſtles did baptize, and with the element of water, according to the firſt in<g ref="char:EOLhyphen"/>ſtitution of baptiſm? and firſt, give the example of <hi>Paul,</hi> who though he make it a great work, to which as an Apoſtle he was chief<g ref="char:EOLhyphen"/>ly called to preach the Goſpel: and that he might clear himſelf of vain glory, he rejoyceth he bap<g ref="char:EOLhyphen"/>tizeth not many; yet he acknow<g ref="char:EOLhyphen"/>ledgeth that he baptized ſome.</p>
+               <p>1 <hi>Cor.</hi> 13. to the 17. Were ye baptized into the name of <hi>Paul?</hi> I thank God I baptiſed none of you <hi>but Criſpus</hi> and <hi>Gaius,</hi> leſt any ſhould ſay, I had baptized into mine own name; <hi>I baptized alſo the houſe of</hi> Stephanus; further<g ref="char:EOLhyphen"/>more, I know not wither I bapti<g ref="char:EOLhyphen"/>zed any other; for Chriſt ſent me not to baptize, but to preach the Goſpel.</p>
+               <pb n="117" facs="tcp:41426:76"/>
+               <p>
+                  <hi>Mat</hi> 8.36. to the end. And as they went on the way, <hi>they came unto a certain water,</hi> and the Eu<g ref="char:EOLhyphen"/>nuch ſaid <hi>See here is water,</hi> what doth let me to be baptized? <hi>and they went down into the water, both</hi> Philip <hi>and the Eunuch,</hi> and <hi>he baptized him;</hi> and aſſoon as they were <hi>come up out of the water,</hi> the Spirit of the Lord caught away <hi>Philip.</hi>
+               </p>
+               <p>
+                  <hi>Queſt.</hi> There needs indeed no more au hority: yet to put it out of all controverſie, have ye no pre<g ref="char:EOLhyphen"/>ſident of ſome baptized with the element of water, even after they had been baptized with the holy Ghoſt?</p>
+               <p>Anſw. <hi>Acts</hi> 10.44. to the end. While <hi>Peter</hi> yet ſpake theſe words, <hi>the holy Ghoſt fell on all them which heard the word;</hi> ſo they of the Circumciſion, which be<g ref="char:EOLhyphen"/>lieved were aſtoniſhed, as many as came with <hi>Peter</hi> becauſe that on the Gentiles, alſo was poured out
+<pb n="118" facs="tcp:41426:77"/>the gift of the holy Ghoſt: for they heard them ſpeak with tongues, and magnifie God; <hi>then anſwered</hi> Peter, <hi>Can any man for<g ref="char:EOLhyphen"/>bid water, that theſe ſhould not be baptized which have received the holy Ghoſt, as well as we? ſo he com<g ref="char:EOLhyphen"/>manded them to be baptized</hi> in the name of the Lord.</p>
+               <p>
+                  <hi>Queſt.</hi> One word more and then we ſhall leave it to whomſo<g ref="char:EOLhyphen"/>ever reads to judge, whither we or our Maſter of Arts will more need to fly from plain Scripture to con<g ref="char:EOLhyphen"/>ſequence or comment: have ye therefore no example that the Lord Jeſus Chriſt himſelf who did himſelf baptize with the holy Ghoſt yet for the honour of his own Inſtitution, and to confirm us in the truth, that he might ful<g ref="char:EOLhyphen"/>fill all obedience, ſubmitted to this Ordinance of Baptiſm adminiſtred in the Element of water?</p>
+               <p>Anſw. <hi>Mark</hi> 1.9.10. And it came to paſs in thoſe days <hi>that Ie<g ref="char:EOLhyphen"/>ſus</hi>
+                  <pb n="119" facs="tcp:41426:77"/>came from <hi>Nazareth,</hi> a City of <hi>Galilee, and was baptized of</hi> Iohn <hi>in</hi> Iordan: <hi>and aſſoon as he was come out of the water, Iohn</hi> ſaw the hea<g ref="char:EOLhyphen"/>vens cleaving in twain, and the holy Ghoſt deſcending on him like a Dove.</p>
+               <p>
+                  <hi>Mrt.</hi> 3.13. to the end. <hi>Then came Jeſus</hi> from <hi>Galilee to</hi> Jordan unto <hi>Iohn to be baptized</hi> of him; but <hi>Iohn</hi> earneſtly put him back, ſaying, I have need to be baptized of thee, and comeſt thou to me? Then anſwering Ieſus ſaid, Let it be now; for thus it becomes us to fulfil all righteouſneſs: ſo he ſuf<g ref="char:EOLhyphen"/>fered him: <hi>and Ieſus when he was baptized, came ſtraight out of the water:</hi> and lo the heavens were opened unto him, and <hi>Iohn</hi> ſaw the the Spirit of God deſcending like a Dove, and lighting on him, and lo a voice came from heaven, ſay<g ref="char:EOLhyphen"/>ing, This is my welbeloved Son, in whom I am well pleaſed.</p>
+            </div>
+            <div n="24" type="chapter">
+               <pb n="120" facs="tcp:41426:78"/>
+               <head>CHAP. XXIV.</head>
+               <p>
+                  <hi>Q<g ref="char:V">Ʋ</g>eſt.</hi> Well were it for the Hereſie of former ages, and of this, if the laſt thing in the Ca<g ref="char:EOLhyphen"/>techiſm were true: fitly brought (if believed) to lull aſleep the pre<g ref="char:EOLhyphen"/>ſent torments of a checking Con<g ref="char:EOLhyphen"/>ſcience, which will work in the heart of ſuch as maliciouſly ſin againſt the truth: but alas they cannot but know the greater is their preſent ſentence, and receipt of Iudgement, and fiery indignati<g ref="char:EOLhyphen"/>on which ſhall devour ſuch adver<g ref="char:EOLhyphen"/>ſaries.</p>
+               <p>
+                  <hi>Heb.</hi> 10.26, 27. They have a lye in their right hand. It is moſt fitly added therefore as a cloſe hereto: The thing is this then in one word dreadful enough, where<g ref="char:EOLhyphen"/>as we read of (a lyar ought to have a good memory, ſee the laſt Queſtion of the third Chapter) death oppoſed to everlaſting life,
+<pb n="121" facs="tcp:41426:78"/>the ſecond death, deſtruction, per<g ref="char:EOLhyphen"/>dition, Hell-fire, <hi>&amp;c.</hi> Is it (as I know <hi>Biddle</hi> could wiſh) ſuch a death as immediately maketh the Creature ceaſe to be, and dye as doth a beaſt: and ſo that the height of their miſery were that they ſhould not be happy? to ſay, they ſhould dye, and thats all; or elſe more truly according to Scripture, doth this death, ſecond death, de<g ref="char:EOLhyphen"/>ſtruction, damnation hell fire &amp;c. conſiſt in eternity of torments, and everlaſting death, ſo that damnati<g ref="char:EOLhyphen"/>on is a life though miſerable, in op<g ref="char:EOLhyphen"/>poſition to which, ſalvation is only called eternal life: — Two or three Scriptures and ſo end.</p>
+               <p>Anſw. <hi>Iſa. ult. ult.</hi> And they ſhall go forth, and look on the car<g ref="char:EOLhyphen"/>kaſſes of the men that have tranſ<g ref="char:EOLhyphen"/>greſſed againſt me; for <hi>their worm ſhall not dye, neither ſhall their fire be quenched,</hi> and they ſhall be an abhorring unto all fleſh.</p>
+               <p>
+                  <hi>Mark</hi> 9.42. to the 48. And
+<pb n="122" facs="tcp:41426:79"/>whoſoever ſhall offend one of theſe little ones that believe in me, it were better for him, that a Mil<g ref="char:EOLhyphen"/>ſtone were hanged about his neck, and that he were caſt into the ſea; Wherefore if thy hand cauſe thee to offend, cut it off; it is better for thee to enter into life maimed, then having two hands to go <hi>into hell, into the fire that never ſhall be quenched, where the worm dyeth not, and the fire never goeth out;</hi> likewiſe if thy foot cauſe thee to offend, cut it off; it is bet<g ref="char:EOLhyphen"/>ter for thee to go halt into life, then having two feet to be caſt into hell, <hi>into the fire that never ſhall be quenched, where the worm dyeth not, and the fire goeth not out;</hi> and if thy eye cauſe thee to offend, pluck it out; it is better for thee to go into the kingdom of God with one eye, then having two eyes to be caſt into hell fire, <hi>where the worm dyeth not, and the fire never goeth out.</hi>
+               </p>
+               <pb n="123" facs="tcp:41426:79"/>
+               <p>
+                  <hi>Mat.</hi> 25.41 &amp; 46 verſes. Then ſhall he ſay to them on the left hand, depart from me ye curſed into <hi>everlaſting fire which is prepared for the Devil and his An<g ref="char:EOLhyphen"/>gels; and theſe ſhall go into ever<g ref="char:EOLhyphen"/>laſting pain; and the righteous into life eternal.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
